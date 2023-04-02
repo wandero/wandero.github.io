@@ -80,7 +80,11 @@ excerpt_description: true
 description：摘要功能实在太傻……
 ```
 
+## 修改主题
 
+直接在 `_sass\_custom\custom.scss` 中添加代码，普通 CSS 代码也可以
+
+注意代码有错误会导致 pages build and deployment 无法完成。repo 的 Actions 页面可以查看，前面显示叉。报错 github-pages can't satisfy your Gemfile's dependencies. 但实际上可能是由 CSS 语法错误引起的。
 
 ## 其他
 
