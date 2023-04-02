@@ -1,4 +1,4 @@
-.posts-expand .post-eof {
+ .post-eof {
     background: #eee !important;
     margin: 40px 0 60px 0 !important;
     width:100% !important;
@@ -97,4 +97,7 @@ li.privacy {
 {margin-left:360px !important}
 
 
-.sidebar-toggle {opacity:0.1}
+.sidebar-toggle
+,.back-to-top
+,.back-to-top-on
+{opacity:0.1}
