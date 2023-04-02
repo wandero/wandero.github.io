@@ -101,8 +101,7 @@
      display: none !important;
  }
 
- // .page-archive .header-inner
- // {margin-left:360px !important}
+
 
 
  .sidebar-toggle,
@@ -116,9 +115,18 @@
  .page-home h2 {
      font-weight: 500 !important;
      font-size: 16px !important;
-     margin:0 0 15px 0 !important;
+     margin: 0 0 15px 0 !important;
  }
 
  .page-home p {
-    margin:0 0 15px 0 !important;
+     margin: 0 0 15px 0 !important;
  }
+
+ .menu {
+     margin-top: -20px !important
+ }
+
+ .page-home .header-inner {
+     padding: 100px 0 20px !important;
+ }
+
