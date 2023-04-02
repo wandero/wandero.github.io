@@ -3,7 +3,7 @@
   title:  "Wordpress 转 Jekyll 简易指南"
   date:   2023-04-02 10:00:00 +0800
   categories: Notes
-  tags: [blog, jekyll, wordpress]
+  tags: [Blog, Jekyll, WordPress]
 
   author: Zephur
 ---
@@ -17,9 +17,9 @@
 
 ## 建立 Jekyll 
 
-  （懒人方案不在本地预览调试，不需要本地安装 ruby 之类环境，甚至似乎完全在 GitHub 网页端处理可以，本地只和普通 git 库一样进行常规编辑操作，顺便说下，网上的很多帖子第一句就是安装 ruby 环境，第二句就是 windows 不建议安装 ruby 环境……）
+  （懒人方案不在本地预览调试，不需要本地安装 ruby 之类环境，如果不是本地编辑推送更方便，甚至可以全过程在 GitHub 网页端处理，GitHub Desktop 也不需要安装。顺便说下，网上的很多帖子第一句就是安装 ruby 环境，第二句就是 windows 不建议安装 ruby 环境……）
 
-建立 Jekyll 也是各种坑，没看到有哪篇帖子说清楚的，这里直接说操作（代码盲的理解可能有问题，但操作绝对清晰明了，顺便，该操作绑定使用 next 主题）
+建立 Jekyll 也是各种坑，没看到有哪篇帖子说清楚的，这里直接说操作（代码盲的理解可能有问题，但操作绝对清晰明了，顺便，该操作绑定使用 next 主题，其实就一句话，fork 一个 Jekyll 主题 repo，按照 githubuser.github.io 的规范命名 repo，修改下  _config.yml 的几处内容，清空 _posts 中的 md，粘贴自己的 _posts）
 
   打开 [jekyll-theme-next](https://github.com/Simpleyyt/jekyll-theme-next) 库，fork（右上）
 
@@ -43,11 +43,14 @@
       ---
       layout: post
       title:  "Wordpress 转 Jekyll 简易指南"
-      date:   2022-04-02 21:00:00 +0800
+      date:   2023-04-02 21:00:00 +0800
       categories: Notes
       tags: [blog, jekyll, wordpress]
       author: Zephur
       ---
 
+## 其他
 
-​      
+- YAML 里面的 date 决定发帖时间，似乎还能预定时间发帖
+
+- YAML 里面的 tags 区分大小写
