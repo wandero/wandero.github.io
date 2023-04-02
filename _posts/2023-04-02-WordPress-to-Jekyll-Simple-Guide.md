@@ -1,7 +1,7 @@
 ---
   layout: post
   title:  "Wordpress 转 Jekyll 简易指南"
-  date:   2023-04-02 22:00:00 +0800
+  date:   2023-04-02 10:00:00 +0800
   categories: Notes
   tags: [blog, jekyll, wordpress]
 
