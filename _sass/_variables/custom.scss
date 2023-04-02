@@ -87,9 +87,10 @@
     border-top: 0px solid #eee !important;
 }
 
-/* .page-post-detail #main {margin-top:10px} */
-#disqus_thread>iframe li.do-not-sell,
-li.privacy {
+.tag-cloud-title
+,.category-all-title
+,.archive-page-counter
+{
     display: none !important;
 }
 
@@ -100,4 +101,4 @@ li.privacy {
 .sidebar-toggle
 ,.back-to-top
 ,.back-to-top-on
-{opacity:0.1}
+{opacity:0.1 !important}

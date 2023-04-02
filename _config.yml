@@ -388,7 +388,7 @@ han: false
 disqus:
   enable: true
   shortname: zephur
-  count: true
+  count: false
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
   hide: false
