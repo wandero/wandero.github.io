@@ -16,6 +16,7 @@ categories:
     - Notes
 tags:
     - Logseq
+excerpt_separator: <!--more-->
 ---
 
 Logseq 同步功能迟迟不能正式发布，移动端轻度使用或隐私要求不高可以使用 iCloud 或坚果云等同步软件代替
@@ -23,6 +24,8 @@ Logseq 同步功能迟迟不能正式发布，移动端轻度使用或隐私要�
 ## css
 
 移动端基本可直接使用 PC 端 CSS，在 设置 – 自定义主题 – 编辑 custom.css（当前库） 中复制粘贴 PC 端 的 custom.css 内容即可（可以通过滴答清单或邮件之类应用中转，坚果云打开会乱码，微信转发长度受限，替换 custom.css 可以使用 select 再手动选择全部内容删除，select all 无效）
+
+<!--more-->
 
 ## iOS 端 只读访问 PC 端内容
 
