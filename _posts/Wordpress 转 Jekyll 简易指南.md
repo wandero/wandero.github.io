@@ -24,7 +24,7 @@
     author: language:
 
   将 Wordpress 导出的 _posts 文件夹替换库里的  _posts 文件夹
-  push @，完工，等几分钟，cloudlet.github.io 就可以看到帖子了
+  push orgin，完工，等几分钟，cloudlet.github.io 就可以看到帖子了
 
   blog 导航的分类、归档、标签也都会自动生效（github pages 会自动处理，可能隔几分钟才会完全更新好）
 
