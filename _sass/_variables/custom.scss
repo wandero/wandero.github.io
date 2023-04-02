@@ -1,111 +1,124 @@
  .post-eof {
-    background: #eee !important;
-    margin: 40px 0 60px 0 !important;
-    width:100% !important;
-}
+     background: #eee !important;
+     margin: 40px 0 60px 0 !important;
+     width: 100% !important;
+ }
 
-.posts-expand .post-title {
-    font-size: 24px !important;
-    font-weight: 600 !important;
-    text-align: left !important;
-}
+ .posts-expand .post-title {
+     font-size: 24px !important;
+     font-weight: 600 !important;
+     text-align: left !important;
+ }
 
-.posts-expand .post-meta {
-    margin: 3px 0 20px 0 !important;
-    text-align: left !important;
-}
+ .posts-expand .post-meta {
+     margin: 3px 0 20px 0 !important;
+     text-align: left !important;
+ }
 
-.post-button.text-center {
-    text-align: left !important;
-    margin-top: 10px !important;
-    margin-left: -5px !important
-}
+ .post-button.text-center {
+     text-align: left !important;
+     margin-top: 10px !important;
+     margin-left: -5px !important
+ }
 
-.btn {
-    padding: 0 !important;
-    color: #aaa !important;
-    background: #fff !important;
-    border-width: 0px !important;
+ .btn {
+     padding: 0 !important;
+     color: #aaa !important;
+     background: #fff !important;
+     border-width: 0px !important;
 
-}
+ }
 
-.pagination {
-    margin: 40px 0px 0 40px !important;
-    border-top: 1px solid #eee !important;
+ .pagination {
+     margin: 40px 0px 0 40px !important;
+     border-top: 1px solid #eee !important;
 
-}
+ }
 
-.page-number {
-    margin-top: 30px !important
-}
+ .page-number {
+     margin-top: 30px !important
+ }
 
-.site-meta {
-    text-align: left !important;
-}
-
-
-#menu {text-align: left !important;}
-.menu-item-icon {display:none !important}
-
-.brand {
-    color: #555 !important;
-    background: #fff !important;
-    border-bottom: none !important;
-    padding:0 !important;
-}
-
-.site-title {
-    line-height: 36px !important;
-    font-size: 30px !important;
-    font-weight: 900 !important;
-    font-family: sans-serif !important;
-}
-
-#menu {
-    margin-left: -10px !important
-}
-
-.page-post-detail .site-brand-wrapper {
-    display: none !important
-}
-
-.page-post-detail .header-inner {
-    padding: 20px 0 0px !important;
-    opacity: 0 !important;
-
-}
-
-.page-post-detail .header-inner:hover {
-    opacity: 1 !important
-}
-
-.page-post-detail .posts-expand {
-    padding-top: 10px !important
-}
-
-.pagination .prev,
-.pagination .next,
-.pagination .page-number {
-    border-bottom: 0 !important;
-    border-top: 0px solid #eee !important;
-}
-
-.tag-cloud-title
-,.category-all-title
-,.archive-page-counter
-{
-    display: none !important;
-}
-
-.page-archive .header-inner
-{margin-left:360px !important}
+ .site-meta {
+     text-align: left !important;
+ }
 
 
-.sidebar-toggle
-,.back-to-top
-,.back-to-top-on
-{opacity:0.1 !important}
+ #menu {
+     text-align: left !important;
+ }
 
-// .menu .menu-item .fa {margin-left:5px !important}
+ .menu-item-icon {
+     display: none !important
+ }
 
-.page-home h2 {font-weight: 500 !important;font-size: 16px !important;}
+ .brand {
+     color: #555 !important;
+     background: #fff !important;
+     border-bottom: none !important;
+     padding: 0 !important;
+ }
+
+ .site-title {
+     line-height: 36px !important;
+     font-size: 30px !important;
+     font-weight: 900 !important;
+     font-family: sans-serif !important;
+ }
+
+ #menu {
+     margin-left: -10px !important
+ }
+
+ .page-post-detail .site-brand-wrapper {
+     display: none !important
+ }
+
+ .page-post-detail .header-inner {
+     padding: 20px 0 0px !important;
+     opacity: 0 !important;
+
+ }
+
+ .page-post-detail .header-inner:hover {
+     opacity: 1 !important
+ }
+
+ .page-post-detail .posts-expand {
+     padding-top: 10px !important
+ }
+
+ .pagination .prev,
+ .pagination .next,
+ .pagination .page-number {
+     border-bottom: 0 !important;
+     border-top: 0px solid #eee !important;
+ }
+
+ .tag-cloud-title,
+ .category-all-title,
+ .archive-page-counter {
+     display: none !important;
+ }
+
+ // .page-archive .header-inner
+ // {margin-left:360px !important}
+
+
+ .sidebar-toggle,
+ .back-to-top,
+ .back-to-top-on {
+     opacity: 0.1 !important
+ }
+
+ // .menu .menu-item .fa {margin-left:5px !important}
+
+ .page-home h2 {
+     font-weight: 500 !important;
+     font-size: 16px !important;
+     margin:0 0 15px 0 !important;
+ }
+
+ .page-home p {
+    margin:0 0 15px 0 !important;
+ }
