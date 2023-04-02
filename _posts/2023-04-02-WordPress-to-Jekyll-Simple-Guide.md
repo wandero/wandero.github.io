@@ -49,6 +49,36 @@
       author: Zephur
       ---
 
+## 摘要
+
+next 支持 3 种摘要方式，需要在 _config.yml 设置
+
+自动摘要：摘要文档第一段内容指定字数（如果第一段只是一个标题，那么抱歉，只会摘要这个标题，太傻了……）
+
+```
+auto_excerpt:
+  enable: true
+  length: 200
+```
+
+手动标记：摘要文档 ` <!-- more -->`之前内容，可以自定义符号，可以在 front-matter 中单独指定`excerpt_separator: <!--more-->`， 也可以在全局指定，如果开启全局指定，没有  `<!-- more -->`的文档会摘要全文……
+
+```
+# excerpt_separator: <!-- more -->
+```
+
+手动摘要：在  front-matter 中自己写摘要……
+
+```
+excerpt_description: true
+```
+
+```
+description：摘要功能实在太傻……
+```
+
+
+
 ## 其他
 
 - YAML 里面的 date 决定发帖时间，似乎还能预定时间发帖
