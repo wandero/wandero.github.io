@@ -4,8 +4,9 @@
   date:   2023-04-02 10:00:00 +0800
   categories: Notes
   tags: [Blog, Jekyll, WordPress]
-
   author: Zephur
+  description：因为各种原因，不打算维护费事的 Wordpress（VPS） 了，放弃治疗，全部扔省事的 Jekyll（GitHub Pages），Jekyll 其实看网上的各种帖子也很费事，这显然不科学，懒人攻略码起来 导出 Wordpress  WordPress to Jekyll Exporter，最省事的方案，安装插件，运行插件，会将 wordpress 所有 blog 导出为符合 Jekyll 的 _posts 文件夹   但是，万恶但是往往出现的但是
+
 ---
 因为各种原因，不打算维护费事的 Wordpress（VPS） 了，放弃治疗，全部扔省事的 Jekyll（GitHub Pages），Jekyll 其实看网上的各种帖子也很费事，这显然不科学，懒人攻略码起来
 
