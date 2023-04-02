@@ -88,6 +88,16 @@ description：摘要功能实在太傻……
 
 注意代码有错误会导致 pages build and deployment 无法完成。repo 的 Actions 页面可以查看，前面显示叉。报错 github-pages can't satisfy your Gemfile's dependencies. 但实际上可能是由 CSS 语法错误引起的。
 
+## 自定义域名
+
+将域名解析至 cloudlet.github.io 即可实现 https 访问（不需要额外进行证书等设置）
+
+在域名网站选择 manage dns，设置 CNAME 记录指向  wandero.github.io，注意 www 可以设置，apex 域名 （根域名）设置 cname 可能报错（不符合域名管理规则？……），需要设置 4条 A 记录分别指向  185.199.108.153、185.199.109.153、185.199.110.153、185.199.111.153，设置完成后可能要过几个小时才会生效 
+
+在 repo 根目录新建 cname 文件，内容为 cloudlet.info
+
+在 repo setting 中的 Pages 页面 Custom domain 板块填入 cloudlet.info，保存会自动检查，一般 dns 生效后会通过，勾选下方的 Enforce HTTPS  打开 https 访问
+
 ## 其他
 
 - YAML 里面的 date 决定发帖时间，似乎还能预定时间发帖
