@@ -1,0 +1,55 @@
+---
+id: 268
+title: 'FFXIV 生产模拟器 to AutoHotKey 脚本转换工具'
+date: '2014-10-13T17:46:02+08:00'
+author: Zephur
+layout: post
+guid: 'http://cloudlet.info/t/268'
+permalink: /2014/10/13/ffxiv-%e7%94%9f%e4%ba%a7%e6%a8%a1%e6%8b%9f%e5%99%a8-to-autohotkey-%e8%84%9a%e6%9c%ac%e8%bd%ac%e6%8d%a2%e5%b7%a5%e5%85%b7/
+duoshuo_thread_id:
+    - '6275546040594596609'
+mytory_md_visits_count:
+    - '60'
+dotGood:
+    - '37'
+categories:
+    - Games
+tags:
+    - FFXIV
+---
+
+`郑重提示，脚本有风险，偷懒需谨慎`
+
+**功能**
+
+将 [最终幻想14生产模拟器](http://shendeng.17173.com/ff14/emu/) 输出文本中的制造步骤内容转换成特定的 AutoHotKey 脚本，可指定触发热键，循环次数（xls文件，需 excel 2007 以上版本）
+
+**用法**
+
+1、设定区设定好热键和次数，以及随机延迟时间（不理解可先无视）.
+
+2、定制区设定好要用到的技能及对应的键位
+
+3、输入区复制粘贴制造步骤内容
+
+4、输出区复制文本粘贴至 Word 之类编辑器，再从 Word 复制粘贴至 记事本 （或直接复制粘贴至 SublimeText，删除代码开头的引号）
+
+5、保存脚本，运行脚本
+
+6、打开生产界面，选好制造目标及对应材料，鼠标点击制造目标后，热键激活脚本
+
+7、完毕
+
+**注意**
+
+1、 在激活脚本前确定技能栏设置正确，材料选择正确，中途出错可按F1 键中止脚本，解决错误后鼠标点击制造目标后可热键重头开始
+
+2、该脚本无法全程后台运行，切换到其他程序后会造成制造完一件物品后出错，如需半自动处理可将循环次数设定为 1，另未进入制造面板前切换程序也会出错
+
+**界面**
+
+[![](http://s0.cloudlet.info/201410/2840/47747_z.jpg)](http://s0.cloudlet.info/201410/2840/47747_o.jpg)
+
+**下载**
+
+[FFXIV Emu2Ahk v0.0.1](http://pan.baidu.com/s/1bn4bxFL)
