@@ -3,7 +3,7 @@
   title:  "Wordpress 转 Jekyll 简易指南"
   date:   2023-04-02 10:00:00 +0800
   categories: Notes
-  tags: [Blog, Jekyll, WordPress]
+  tags: [Blog, Jekyll, WordPress, VPS]
   author: Zephur
   excerpt_separator: <!--more-->
 ---
