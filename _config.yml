@@ -304,8 +304,8 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
-  length: 300
+  enable: true
+  length: 200
 
 # Post meta display settings
 post_meta:
@@ -380,8 +380,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: zephur
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
