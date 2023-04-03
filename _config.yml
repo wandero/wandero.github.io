@@ -34,7 +34,7 @@ paginate: 20
 # Handling Reading
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
 
-# Separator
+#Separator
 excerpt_separator: <!-- more -->
 
 # Code Highlighter
@@ -299,7 +299,7 @@ scroll_to_more: true
 save_scroll: false
 
 # Automatically excerpt description in homepage as preamble text.
-excerpt_description: true
+excerpt_description: false
 
 # Automatically Excerpt. Not recommend.
 # Please use <!-- more --> in the post to control excerpt accurately.
@@ -307,9 +307,7 @@ auto_excerpt:
   enable: true
   length: 200
 
-excerpt_generator:
-  # 生成两段摘要
-  number_of_paragraphs: 2
+
 
 
 
