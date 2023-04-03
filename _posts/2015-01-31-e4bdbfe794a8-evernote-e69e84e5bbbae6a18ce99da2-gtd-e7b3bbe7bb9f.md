@@ -35,6 +35,8 @@ tags:
 - （工作内容基本在电脑上的话）**绝大部分未尽事宜的捕获都可以通过 Evernote 完成**（因为是自定义剪辑，除了任务本身还可以包含足够的相关信息）；
 - **Evernote 作为信息管理中枢的强大能力**
 
+<!--more-->
+
 ## **系统设定**
 
 作为信息管理软件的 Evernote 和作为行动管理软件的 GTD 表面上看似乎很难整合在一起，虽然之前也有不少达人做过这方面的尝试，例如 Esor Huang 的《Evernote超效率数字笔记术》（这种结构在前面的 [Evernote 的信息组织结构](http://cloudlet.info/t/279) 提到），以及ET民工和塞壬的 [GTD系列教程3：顶级知识管理工具Evernote的GTD应用详细指南](http://xbeta.info/gtd-evernote.htm)，但实际应用起来却多少有些别扭。究其原因，主要是 Evernote 的内容分类干扰了 GTD 的清单和场景系统。

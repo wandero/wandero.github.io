@@ -26,6 +26,8 @@ tags:
 
 之前考虑更换 blog 系统，Jekyll on GitHub 方案某些方面堪称完美，但基于各方面的考虑，最终还是选择了 Mytory Markdown on WordPress 方案，记录如下
 
+<!--more-->
+
 ## Jekyll on GitHub
 
 依托 GitHub 及其原生支持的静态 blog 系统，在静态 blog 各种优点的基础上还有 GitHub 的强势 buff ，但同时也不可避免的继承静态 blog 和 GitHub 带来的短板，主要特点：
@@ -70,7 +72,7 @@ tags:
 
 - Workflowy，梳理思路、整理结构化信息的笔记神器
 - Typroa，简约、强大、养眼的单窗口 Markdown 编辑神器
-    
+  
     而最赞的，**Workflowy export – OPML – Typora import**，一篇无须再排版的原生 Markdown blog 直接出炉
 
 ## 趟坑相关

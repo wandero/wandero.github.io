@@ -23,6 +23,8 @@ Chrome 可以使用自带工具同步，但因为某种地球人都知道的原�
 
 然后，就是本文要提到的了
 
+<!--more-->
+
 **同步文件夹**: \\User Data\\Default\\databases\\
 
 **同步方法**： [Dropbox Folder Sync ](http://satyadeepk.in/dropbox-folder-sync/)

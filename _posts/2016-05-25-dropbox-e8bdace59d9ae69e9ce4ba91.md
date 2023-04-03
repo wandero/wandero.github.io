@@ -27,7 +27,9 @@ tags:
     - sync
 ---
 
-**UPDATE:** 最后发现坚果云还是无法完全取代 Dropbox，所以……两个都用 [Dropbox 还是坚果云](http://cloudlet.info/t/426)
+**UPDATE:** 最后发现坚果云还是无法完全取代 Dropbox，所以……两个都用 
+
+<!--more-->[Dropbox 还是坚果云](http://cloudlet.info/t/426)
 
 因为众所周知的原因，以同步为主要需求的情况下，Dropbox 越来越难以胜任，而同步这类功能又往往需要在开机后短时间内完成，无奈转用墙内口碑不错的坚果云。
 

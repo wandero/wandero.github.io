@@ -20,6 +20,8 @@ categories:
 
 严格来说，是使用（最新版本，目前 v4.1） Dell Mobile Connect 在（任意非 Dell 的 Windows 10）PC 上使用手机（包括 iPhone）（接打电话、接发消息、接收通知）
 
+<!--more-->
+
 ## 安装
 
 （非 Dell PC）直接在 Microsoft Store 中安装 Dell Mobile Connect 会提示 「此设备不满足安装软件的最低要求」

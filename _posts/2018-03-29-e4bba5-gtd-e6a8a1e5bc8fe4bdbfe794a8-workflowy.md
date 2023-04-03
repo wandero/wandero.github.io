@@ -28,6 +28,8 @@ Workflowy 是一款自由度极高的层级式笔记应用，重度用户甚至�
 
 以 Workflowy 和 Evernote 的组合为例，前者长于处理高度结构化的信息，如思路整理、操作记录、长文创作、复杂任务的规划，后者则在全平台的剪辑查阅、海量信息的组织管理方面更占优势（参见 [为什么选择 Evernote](https://cloudlet.info/t/366)）。
 
+<!--more-->
+
 那么，是否有一种方式能够衔接 Workflowy 和 Evernote，使其各展所长呢？遗憾的是，目前两者虽然能够进行一定的衔接——Workflowy 的节点和 Evernote 的笔记都拥有独立的地址，可以相互链接。Workflowy 的每日内容变更可以自动转发至 Evernote。Workflowy 的导出面板内容可以完美剪辑至 Evernote。包括最近 @locktionc 发布的「同步 Workflowy 大纲到印象笔记」的脚本——但效果都不大理想，Workflowy 的强大在于其灵活的视角和独特的动态版面，搬到 Evernote 会大失神韵，反之 Evernote 强悍的信息组织能力到了 Workflowy 也英雄无用武之地。
 
 在反复衡量增加一个收集篮带来的精力损耗和增加一套强大的复杂任务处理系统带来的系统加成之后，我最终选择了在 Workflowy 中建立一套和 Evernote 类似但相对独立的 GTD 系统（参见[使用 Evernote 建立桌面 GTD 系统](https://cloudlet.info/t/284)）。

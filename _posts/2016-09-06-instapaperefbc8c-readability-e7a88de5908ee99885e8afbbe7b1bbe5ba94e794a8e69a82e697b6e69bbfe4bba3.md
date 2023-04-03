@@ -29,6 +29,8 @@ Readability 宣布月底停止服务，Kindle 类稍后阅读只有寻找其他�
 
 相比 Readability，Instapaper 多少有些不足：
 
+<!--more-->
+
 - 不支持当前界面净化（Read Now）
 - 不支持当前页面即时推送 Kindle （Send to Kindle）（只有通过 Settings 中的 Send Articles to Kindle Immediately 将未读文章全部推送，比较繁琐）
 - Chrome 扩展只有收藏至 Instapaper 一个功能（表面上连快捷键设定都不能改，实际上可以在 Chrome 的扩展页面的键盘快捷键里指定）（另外连一个到官网的链接都没有……）

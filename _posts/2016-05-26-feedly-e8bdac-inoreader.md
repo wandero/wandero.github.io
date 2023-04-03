@@ -30,6 +30,8 @@ tags:
 
 不过最近最终还是被 Inoreader 的整合功能（一键发送文章至 Evernote、Readability、Pocket）、搜索功能、读取全文功能成功安利，在艰难 Stylish 后彻底迁移。
 
+<!--more-->
+
 另外说一下 RSS 的移动端阅读，Reeder 和 Pocket 都很赞，但是 Kindle 效果更佳……所以我现在的 RSS 阅读模式变成了部分 RSS 通过 Kindlear 推送，其他 RSS 通过 Web 速刷，有资料价值的一键发送至 Evernote，有阅读价值的（一键发送至 Readability ）通过 Readability 推送至 Kindle（Readability 原生支持即时、定时、单独、打包推送至 Kindle）。
 
 （附 [Inoreader @ Stylish](http://cloudlet.info/t/379)）
