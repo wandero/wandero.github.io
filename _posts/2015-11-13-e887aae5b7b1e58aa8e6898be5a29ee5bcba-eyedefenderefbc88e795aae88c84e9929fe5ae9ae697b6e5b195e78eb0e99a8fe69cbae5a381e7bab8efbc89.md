@@ -30,7 +30,7 @@ tags:
 
 EyeDefender 能以番茄钟形式定时展示全屏壁纸，但美中不足的是只能选择固定图片，对比 Chrome 上的 Flickr Tab 和 Unsplash Instant 不免相形见绌，好在仍然可以通过批处理命令手动增强。
 
-<!--more-->
+<!-- more -->
 
 ## 功能
 

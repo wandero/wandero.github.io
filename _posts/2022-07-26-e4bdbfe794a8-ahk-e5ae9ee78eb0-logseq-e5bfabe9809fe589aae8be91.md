@@ -21,7 +21,7 @@ tags:
 
 Logseq 没有快速剪辑功能，使用起来很不方便，好在有万能的 AHK，感谢 [及时春雨的脚本（Obsidian&amp;Logseq等软件联动 AHK加速脚本使用详解）](https://www.bilibili.com/video/BV1vY411T711?spm_id_from=333.337.search-card.all.click&vd_source=3c6810b837c319a08af0b805d3d2a19d)，不过这个脚本里面功能太多，只山寨了一段，主要用于 Logseq 的快速剪辑（Win+A 快速剪辑选中内容至 Logseq 当日 Journals 末尾，网页内容额外添加原文链接），另外支持了一下快捷随机页面和删除（F1 触发 Ramdom Note 扩展打开随机页面功能，注意受输入法状态和 Caps Lock 大写影响；F2 删除当前页面并打开下一随机页面，点击坐标需要结合屏幕调整）。
 
-<!--more-->
+<!-- more -->
 
 ```
       SetTitleMatchMode, Regex ;正则表达式

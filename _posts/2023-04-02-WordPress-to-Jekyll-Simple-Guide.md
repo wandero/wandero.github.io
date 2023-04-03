@@ -5,7 +5,7 @@
   categories: Notes
   tags: [Blog, Jekyll, WordPress, VPS]
   author: Zephur
-  excerpt_separator: <!--more-->
+  excerpt_separator: <!-- more -->
 ---
 因为各种原因，不打算维护费事的 Wordpress（VPS） 了，放弃治疗，全部扔省事的 Jekyll（GitHub Pages），Jekyll 其实看网上的各种帖子也很费事，这显然不科学，懒人攻略码起来
 
@@ -13,7 +13,7 @@
 
  WordPress to Jekyll Exporter，最省事的方案，安装插件，运行插件，会将 wordpress 所有 blog 导出为符合 Jekyll 的 _posts 文件夹
 
-<!--more-->
+<!-- more -->
 
   但是，万恶但是往往出现的但是，运行插件可能出现“此站点遇到了致命错误，请查看您站点管理员电子邮箱中收到的邮件来获得指引”或者其他各种奇奇怪怪的问题……那么要采取替代方案吗？千万别，什么 WordPress2Jekyll、wp2jekyll 还有各种年久失修的工具都是各种坑，最简单的方法，将原来 wordpress 的通过 工具-导出 导出所有内容，再在 VPS 或者本地新建一个临时 Wordpress 导入全部内容，安装 WordPress to Jekyll Exporter，导出
 
@@ -64,7 +64,7 @@ auto_excerpt:
   length: 200
 ```
 
-手动标记：摘要文档 ` <!-- more -->`之前内容，可以自定义符号，可以在 front-matter 中单独指定`excerpt_separator: <!--more-->`， 也可以在全局指定，如果开启全局指定，没有  `<!-- more -->`的文档会摘要全文……
+手动标记：摘要文档 ` <!-- more -->`之前内容，可以自定义符号，可以在 front-matter 中单独指定`excerpt_separator: <!-- more -->`， 也可以在全局指定，如果开启全局指定，没有  `<!-- more -->`的文档会摘要全文……
 
 ```
 #config

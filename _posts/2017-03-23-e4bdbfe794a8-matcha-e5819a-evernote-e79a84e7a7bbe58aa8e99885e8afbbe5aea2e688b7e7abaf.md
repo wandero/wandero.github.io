@@ -26,7 +26,7 @@ tags:
 
 Matcha 3 是一款很赞的 Evernote ios 客户端，通常都被推荐用来移动端写作。但是对于一个不喜欢手机端操作的 Kindle 控来说，Matcha 作为 Evernote 的移动阅读客户端一样非常出色。
 
-<!--more-->
+<!-- more -->
 
 ## 灾难的 Evernote 移动端阅读
 

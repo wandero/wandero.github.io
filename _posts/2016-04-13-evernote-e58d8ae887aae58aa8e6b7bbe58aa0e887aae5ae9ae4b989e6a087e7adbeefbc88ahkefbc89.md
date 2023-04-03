@@ -31,7 +31,7 @@ tags:
 
 （自定义标签为个人提法，详见 [Evernote 的信息组织结构](http://cloudlet.info/t/279)）
 
-<!--more-->
+<!-- more -->
 
 ## 效果
 

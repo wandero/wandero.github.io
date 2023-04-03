@@ -24,7 +24,7 @@ tags:
 
 将 [最终幻想14生产模拟器](http://shendeng.17173.com/ff14/emu/) 输出文本中的制造步骤内容转换成特定的 AutoHotKey 脚本，可指定触发热键，循环次数（xls文件，需 excel 2007 以上版本）
 
-<!--more-->
+<!-- more -->
 
 **用法**
 

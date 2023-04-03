@@ -29,7 +29,7 @@ Readability 宣布月底停止服务，Kindle 类稍后阅读只有寻找其他�
 
 相比 Readability，Instapaper 多少有些不足：
 
-<!--more-->
+<!-- more -->
 
 - 不支持当前界面净化（Read Now）
 - 不支持当前页面即时推送 Kindle （Send to Kindle）（只有通过 Settings 中的 Send Articles to Kindle Immediately 将未读文章全部推送，比较繁琐）

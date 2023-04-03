@@ -26,7 +26,7 @@ tags:
 
 之前考虑更换 blog 系统，Jekyll on GitHub 方案某些方面堪称完美，但基于各方面的考虑，最终还是选择了 Mytory Markdown on WordPress 方案，记录如下
 
-<!--more-->
+<!-- more -->
 
 ## Jekyll on GitHub
 
