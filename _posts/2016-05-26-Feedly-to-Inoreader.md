@@ -5,7 +5,6 @@ date: '2016-05-26T16:14:57+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/380'
-permalink: /2016/05/26/feedly-%e8%bd%ac-inoreader/
 duoshuo_thread_id:
     - '6288908001478705921'
 mytory_md_visits_count:

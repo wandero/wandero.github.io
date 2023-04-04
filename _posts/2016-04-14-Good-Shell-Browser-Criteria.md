@@ -5,7 +5,6 @@ date: '2016-04-14T11:22:03+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/369'
-permalink: /2016/04/14/%e4%bb%80%e4%b9%88%e6%a0%b7%e7%9a%84%e5%a3%b3%e6%b5%8f%e8%a7%88%e5%99%a8%e6%89%8d%e6%98%af%e5%a5%bd%e7%9a%84%e5%a3%b3%e6%b5%8f%e8%a7%88%e5%99%a8-%e6%8e%a8%e8%8d%90-centbrowser/
 duoshuo_thread_id:
     - '6275546055199163138'
 mytory_md_visits_count:

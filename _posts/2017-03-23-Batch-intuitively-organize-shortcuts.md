@@ -5,7 +5,6 @@ date: '2017-03-23T15:12:57+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/438'
-permalink: /2017/03/23/%e6%89%b9%e9%87%8f%e7%9b%b4%e8%a7%82%e6%95%b4%e7%90%86%e5%bf%ab%e6%8d%b7%e6%96%b9%e5%bc%8f/
 mytory_md_visits_count:
     - '79'
 mytory_md_path:

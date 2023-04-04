@@ -5,7 +5,6 @@ date: '2022-12-14T17:45:08+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1214'
-permalink: /2022/12/14/win-%e7%94%a8-bat-%e5%bf%ab%e9%80%9f%e9%87%8d%e5%90%af%e7%a8%8b%e5%ba%8f/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/22/221214%20Win%20BAT%20%E5%BF%AB%E6%8D%B7%E9%87%8D%E5%90%AF%E7%A8%8B%E5%BA%8F.md'
 mytory_md_text:

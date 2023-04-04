@@ -5,7 +5,6 @@ date: '2013-07-22T11:09:40+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/188'
-permalink: /2013/07/22/rss-reader-%e8%bf%87%e6%b8%a1%e6%96%b9%e6%a1%88/
 duoshuo_thread_id:
     - '6275546007103079170'
 mytory_md_visits_count:

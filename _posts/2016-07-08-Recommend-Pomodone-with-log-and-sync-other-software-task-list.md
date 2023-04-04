@@ -5,7 +5,6 @@ date: '2016-07-08T10:19:39+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/387'
-permalink: /2016/07/08/%e6%8e%a8%e8%8d%90-pomodone%ef%bc%88%e5%b8%a6%e6%97%a5%e5%bf%97%e5%8f%af%e5%90%8c%e6%ad%a5%e5%85%b6%e4%bb%96%e8%bd%af%e4%bb%b6%e4%bb%bb%e5%8a%a1%e5%88%97%e8%a1%a8%e7%9a%84%e7%95%aa%e8%8c%84%e9%92%9f/
 duoshuo_thread_id:
     - '6304773101020250881'
 mytory_md_visits_count:

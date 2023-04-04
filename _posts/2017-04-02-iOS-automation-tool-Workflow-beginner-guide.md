@@ -5,7 +5,6 @@ date: '2017-04-02T21:29:49+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/441'
-permalink: /2017/04/02/%e6%b5%81%e7%a8%8b%e8%87%aa%e5%8a%a8%e5%8c%96%e5%b7%a5%e5%85%b7-workflow%ef%bc%88ios%ef%bc%89-%e7%ae%80%e6%98%93%e4%b8%8a%e6%89%8b%e6%8c%87%e5%8d%97/
 mytory_md_visits_count:
     - '129'
 mytory_md_path:

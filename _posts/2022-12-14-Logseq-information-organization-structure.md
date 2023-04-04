@@ -5,7 +5,6 @@ date: '2022-12-14T17:46:24+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1213'
-permalink: /2022/12/14/logseq-%e7%9a%84%e4%bf%a1%e6%81%af%e7%bb%84%e7%bb%87%e7%bb%93%e6%9e%84/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/22/221214%20Logseq%20%E4%BF%A1%E6%81%AF%E7%BB%84%E7%BB%87%E7%BB%93%E6%9E%84.md'
 mytory_md_text:

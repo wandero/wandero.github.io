@@ -5,7 +5,6 @@ date: '2016-06-21T12:56:31+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/383'
-permalink: /2016/06/21/got-s06e09-%e7%83%82%e7%83%82%e7%83%82/
 duoshuo_thread_id:
     - '6298505081587237633'
 mytory_md_visits_count:

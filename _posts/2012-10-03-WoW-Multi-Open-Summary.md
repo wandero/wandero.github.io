@@ -5,7 +5,6 @@ date: '2012-10-03T19:54:13+08:00'
 author: Zephur
 layout: post
 guid: 'http://foro.cloudlet.info/t/64'
-permalink: /2012/10/03/wow%e5%a4%9a%e5%bc%80%e5%b0%8f%e7%bb%93/
 duoshuo_thread_id:
     - '6275545947904672514'
 mytory_md_visits_count:

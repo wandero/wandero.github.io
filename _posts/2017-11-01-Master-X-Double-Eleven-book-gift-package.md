@@ -5,7 +5,6 @@ date: '2017-11-01T21:34:36+08:00'
 author: Zephur
 layout: post
 guid: 'http://astimego.com/?p=76'
-permalink: /2017/11/01/master-x-%e7%9a%84%e5%8f%8c%e5%8d%81%e4%b8%80%e5%9b%be%e4%b9%a6%e7%a4%bc%e5%8c%85/
 categories:
     - Child
 ---

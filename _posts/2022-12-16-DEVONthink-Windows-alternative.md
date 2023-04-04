@@ -5,7 +5,6 @@ date: '2022-12-16T12:13:41+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1228'
-permalink: /2022/12/16/devonthink-windows-%e6%9b%bf%e4%bb%a3%e6%96%b9%e6%a1%88/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/22/221216%20DEVONthink%20Windows%20%E6%9B%BF%E4%BB%A3%E6%96%B9%E6%A1%88.md'
 mytory_md_text:

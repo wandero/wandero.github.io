@@ -5,7 +5,6 @@ date: '2023-01-12T20:35:23+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1265'
-permalink: /2023/01/12/inoreader-%e6%89%b9%e9%87%8f%e4%bf%ae%e6%94%b9%e8%ae%a2%e9%98%85%e6%ba%90/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/23/230112%20Inoreader%20%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E8%AE%A2%E9%98%85%E6%BA%90.md'
 mytory_md_text:

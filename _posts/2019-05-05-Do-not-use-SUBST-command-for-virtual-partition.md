@@ -5,7 +5,6 @@ date: '2019-05-05T22:37:04+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1034'
-permalink: /2019/05/05/%e4%bd%bf%e7%94%a8-subst-%e5%91%bd%e4%bb%a4%e8%99%9a%e6%8b%9f%e5%88%86%e5%8c%ba/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/19/190505%20%E4%B8%8D%E8%A6%81%E4%BD%BF%E7%94%A8%20SUBST%20%E5%91%BD%E4%BB%A4%E8%99%9A%E6%8B%9F%E5%88%86%E5%8C%BA.md'
 mytory_md_text:

@@ -5,7 +5,6 @@ date: '2017-12-02T22:19:18+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/?p=859'
-permalink: /2017/12/02/vps-%e5%90%af%e7%94%a8-https-%e8%ae%b0%e5%bd%95/
 mytory_md_path:
     - 'https://github.com/wandero/blog/raw/master/17/171202%20VPS%20%E5%90%AF%E7%94%A8%20HTTPS%20%E8%AE%B0%E5%BD%95.md'
 mytory_md_text:

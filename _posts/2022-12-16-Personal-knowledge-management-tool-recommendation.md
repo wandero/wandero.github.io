@@ -5,7 +5,6 @@ date: '2022-12-16T13:53:16+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1230'
-permalink: /2022/12/16/%e4%b8%aa%e4%ba%ba%e7%9f%a5%e8%af%86%e7%ae%a1%e7%90%86%e5%b7%a5%e5%85%b7%e6%8e%a8%e8%8d%90/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/22/221216%20%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90.md'
 mytory_md_text:

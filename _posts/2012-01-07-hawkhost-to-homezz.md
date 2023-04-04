@@ -5,7 +5,6 @@ date: '2012-01-07T17:44:55+08:00'
 author: Zephur
 layout: post
 guid: 'http://dolo.cloudlet.info/?p=95'
-permalink: /2012/01/07/hawkhost-to-homezz/
 duoshuo_thread_id:
     - '6275545969257874178'
 mytory_md_visits_count:

@@ -5,7 +5,6 @@ date: '2022-06-19T11:06:28+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1141'
-permalink: /2022/06/19/%e8%87%aa%e5%b7%b1%e5%8a%a8%e6%89%8b%e4%bf%ae%e6%94%b9-typora-%e4%b8%bb%e9%a2%98/
 mytory_md_path:
     - 'https://github.com/wandero/blog/raw/master/22/220619%20%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E4%BF%AE%E6%94%B9%20Typora%20%E4%B8%BB%E9%A2%98.md'
 mytory_md_text:

@@ -5,7 +5,6 @@ date: '2016-08-30T10:11:11+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/390'
-permalink: /2016/08/30/dropbox-%e5%85%b1%e4%ba%ab%e6%96%87%e4%bb%b6%e5%a4%96%e9%93%be/
 duoshuo_thread_id:
     - '6324438436585407233'
 mytory_md_visits_count:

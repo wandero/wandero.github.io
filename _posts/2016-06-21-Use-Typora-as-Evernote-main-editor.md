@@ -5,7 +5,6 @@ date: '2016-06-21T20:08:50+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/384'
-permalink: /2016/06/21/%e4%bd%bf%e7%94%a8-typora-%e4%bd%9c%e4%b8%ba-evernote-%e4%b8%bb%e7%bc%96%e8%be%91%e5%99%a8/
 duoshuo_thread_id:
     - '6298616486080545538'
 mytory_md_visits_count:

@@ -5,7 +5,6 @@ date: '2014-06-13T16:09:13+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/234'
-permalink: /2014/06/13/diablo3-%e7%ae%80%e6%98%93%e4%b8%8a%e6%89%8b%e6%8c%87%e5%8d%97%ef%bc%88ros-2-0-6%ef%bc%89/
 duoshuo_thread_id:
     - '6275546027575476993'
 mytory_md_visits_count:

@@ -5,7 +5,6 @@ date: '2015-08-26T10:34:22+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/307'
-permalink: /2015/08/26/mad-men-%e8%a7%82%e5%90%8e%e6%84%9f/
 duoshuo_thread_id:
     - '6275546054649709313'
 mytory_md_visits_count:

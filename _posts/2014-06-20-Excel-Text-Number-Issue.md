@@ -5,7 +5,6 @@ date: '2014-06-20T11:43:20+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/238'
-permalink: /2014/06/20/%e4%b8%80%e4%b8%aa%e8%af%a1%e5%bc%82%e7%9a%84-excel-%e6%96%87%e6%9c%ac%e5%9e%8b%e6%95%b0%e5%80%bc%e9%97%ae%e9%a2%98/
 duoshuo_thread_id:
     - '6275546027772609282'
 mytory_md_visits_count:

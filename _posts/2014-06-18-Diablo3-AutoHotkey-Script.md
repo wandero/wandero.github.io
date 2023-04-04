@@ -5,7 +5,6 @@ date: '2014-06-18T21:15:25+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/237'
-permalink: /2014/06/18/diablo3-autohotkey-%e8%84%9a%e6%9c%ac/
 duoshuo_thread_id:
     - '6275546027646780162'
 mytory_md_visits_count:

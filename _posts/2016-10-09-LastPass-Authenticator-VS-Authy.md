@@ -5,7 +5,6 @@ date: '2016-10-09T10:57:47+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/402'
-permalink: /2016/10/09/lastpass-%e6%95%b0%e6%8d%ae%e5%af%bc%e5%85%a5-keepass/
 duoshuo_thread_id:
     - '6339293851596882690'
 mytory_md_visits_count:

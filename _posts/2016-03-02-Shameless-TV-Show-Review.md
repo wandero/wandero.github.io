@@ -5,7 +5,6 @@ date: '2016-03-02T22:21:55+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/362'
-permalink: /2016/03/02/shameless%ef%bc%8c%e5%8f%88%e5%90%8d%e5%a6%82%e4%bd%95%e6%90%9e%e7%a0%b8%e4%bd%a0%e7%9a%84%e4%ba%ba%e7%94%9f/
 duoshuo_thread_id:
     - '6275546054922339073'
 mytory_md_visits_count:

@@ -5,7 +5,6 @@ date: '2013-10-24T21:17:12+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/207'
-permalink: /2013/10/24/%e5%88%a0%e9%99%a4-win7-%e8%af%ad%e8%a8%80%e6%a0%8f%e5%a4%9a%e4%bd%99%e7%9a%84-en-%e6%96%b9%e6%b3%95/
 duoshuo_thread_id:
     - '6275546013839131393'
 mytory_md_visits_count:

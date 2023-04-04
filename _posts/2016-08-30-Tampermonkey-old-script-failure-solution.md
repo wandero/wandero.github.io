@@ -5,7 +5,6 @@ date: '2016-08-30T10:40:24+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/393'
-permalink: /2016/08/30/tampermonkey-%e8%80%81%e8%84%9a%e6%9c%ac%e5%a4%b1%e6%95%88%e8%a7%a3%e5%86%b3%e5%8a%9e%e6%b3%95/
 duoshuo_thread_id:
     - '6324445965327532801'
 mytory_md_visits_count:

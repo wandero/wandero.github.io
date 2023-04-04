@@ -5,7 +5,6 @@ date: '2014-09-26T22:31:25+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/?p=261'
-permalink: /2014/09/26/ffxiv-sheets-v0-2-%ef%bc%88%e7%94%9f%e4%ba%a7%e9%85%8d%e6%96%b9%e3%80%81%e7%b4%a0%e6%9d%90%e4%bd%8d%e7%bd%ae%e9%80%9f%e6%9f%a5%e3%80%81%e6%88%90%e6%9c%ac%e8%ae%a1%e7%ae%97%ef%bc%89/
 duoshuo_thread_id:
     - '6275546034865177345'
 mytory_md_visits_count:

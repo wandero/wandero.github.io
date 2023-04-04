@@ -5,7 +5,6 @@ date: '2011-09-01T11:32:05+08:00'
 author: Zephur
 layout: post
 guid: 'http://dolo.cloudlet.info/83'
-permalink: /2011/09/01/evernote%e6%8e%a7%e7%9a%84wiz%e4%bd%bf%e7%94%a8%e6%84%9f%e5%8f%97/
 duoshuo_thread_id:
     - '6275545957966824194'
 mytory_md_visits_count:

@@ -5,7 +5,6 @@ date: '2014-03-07T14:18:04+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/223'
-permalink: /2014/03/07/chrome-%e5%ad%97%e4%bd%93%e5%9b%be%e6%a0%87%e6%98%be%e7%a4%ba%e4%b9%b1%e7%a0%81%e9%97%ae%e9%a2%98/
 duoshuo_thread_id:
     - '6275546021292409601'
 mytory_md_visits_count:

@@ -5,7 +5,6 @@ date: '2022-03-12T20:48:56+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1123'
-permalink: /2022/03/12/%e6%9e%ab%e6%a0%91%e6%b5%8f%e8%a7%88%e5%99%a8%e3%80%81cent-browser%e3%80%81catsxp/
 mytory_md_path:
     - 'https://github.com/wandero/blog/raw/master/22/220312%20%E6%9E%AB%E6%A0%91%E6%B5%8F%E8%A7%88%E5%99%A8%E3%80%81Cent%20Browser%E3%80%81Catsxp%E2%80%A6%E2%80%A6.md'
 mytory_md_text:

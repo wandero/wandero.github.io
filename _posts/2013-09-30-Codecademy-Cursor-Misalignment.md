@@ -5,7 +5,6 @@ date: '2013-09-30T11:55:04+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/199'
-permalink: /2013/09/30/codecademy-%e7%ad%89%e7%ab%99%e7%82%b9%e7%9a%84%e5%85%89%e6%a0%87%e9%94%99%e4%bd%8d%e9%97%ae%e9%a2%98/
 duoshuo_thread_id:
     - '6275546013704913665'
 mytory_md_visits_count:

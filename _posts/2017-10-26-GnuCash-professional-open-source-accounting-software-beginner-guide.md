@@ -5,7 +5,6 @@ date: '2017-10-26T21:37:44+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/?p=806'
-permalink: /2017/10/26/%e4%b8%93%e4%b8%9a%e5%bc%80%e6%ba%90%e8%ae%b0%e8%b4%a6%e8%bd%af%e4%bb%b6-gnucash-%e7%ae%80%e6%98%93%e4%b8%8a%e6%89%8b%e6%8c%87%e5%8d%97/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/171026%20%E4%B8%93%E4%B8%9A%E5%BC%80%E6%BA%90%E8%AE%B0%E8%B4%A6%E8%BD%AF%E4%BB%B6%20GnuCash%20%E7%AE%80%E6%98%93%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.md'
 mytory_md_text:

@@ -5,7 +5,6 @@ date: '2015-03-04T15:58:58+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/297'
-permalink: /2015/03/04/%e6%8e%a8%e8%8d%90-prettypress%ef%bc%8cwordpress-%e6%af%94%e8%be%83%e5%ae%8c%e7%be%8e%e7%9a%84-markdown-%e8%a7%a3%e5%86%b3%e6%96%b9%e6%a1%88/
 duoshuo_thread_id:
     - '6275546047674581762'
 mytory_md_visits_count:

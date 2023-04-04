@@ -5,7 +5,6 @@ date: '2018-01-20T21:08:34+08:00'
 author: Zephur
 layout: post
 guid: 'https://astimego.com/?p=83'
-permalink: /2018/01/20/%e9%a6%99%e6%b8%af%e4%b8%80%e5%8d%a1%e9%80%9a%e7%9b%b8%e5%85%b3/
 dotGood:
     - '2'
 categories:

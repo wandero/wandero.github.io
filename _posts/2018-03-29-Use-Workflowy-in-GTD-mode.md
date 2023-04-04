@@ -5,7 +5,6 @@ date: '2018-03-29T12:07:51+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=992'
-permalink: /2018/03/29/%e4%bb%a5-gtd-%e6%a8%a1%e5%bc%8f%e4%bd%bf%e7%94%a8-workflowy/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/18/180329%20%E4%BB%A5%20GTD%20%E6%A8%A1%E5%BC%8F%E4%BD%BF%E7%94%A8%20Workflowy.md'
 mytory_md_text:

@@ -5,7 +5,6 @@ date: '2011-05-22T10:23:00+08:00'
 author: Zephur
 layout: post
 guid: 'http://dolo.cloudlet.info/50'
-permalink: /2011/05/22/vim-excel/
 duoshuo_thread_id:
     - '6275545957891310337'
 mytory_md_visits_count:

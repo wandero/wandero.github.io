@@ -5,7 +5,6 @@ date: '2017-10-28T21:20:20+08:00'
 author: Zephur
 layout: post
 guid: 'http://astimego.com/?p=74'
-permalink: /2017/10/28/lego-42065-%e5%b1%a5%e5%b8%a6%e5%bc%8f%e9%81%a5%e6%8e%a7%e8%b5%9b%e8%bd%a6/
 categories:
     - Child
 tags:

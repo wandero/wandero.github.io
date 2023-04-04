@@ -5,7 +5,6 @@ date: '2014-10-13T14:57:29+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/266'
-permalink: /2014/10/13/ffxiv-%e5%9b%bd%e6%9c%8d%e7%89%88%e8%be%93%e5%85%a5%e6%b3%95%e8%af%8d%e5%ba%93%ef%bc%88txt%e7%89%88%ef%bc%89/
 duoshuo_thread_id:
     - '6275546035016172290'
 mytory_md_visits_count:

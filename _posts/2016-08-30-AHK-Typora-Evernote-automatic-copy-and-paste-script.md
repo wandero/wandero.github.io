@@ -5,7 +5,6 @@ date: '2016-08-30T09:36:05+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/389'
-permalink: /2016/08/30/ahk-typora-evernote-%e8%87%aa%e5%8a%a8%e5%a4%8d%e5%88%b6%e7%b2%98%e8%b4%b4%e8%84%9a%e6%9c%ac/
 duoshuo_thread_id:
     - '6324429388200805121'
 mytory_md_visits_count:

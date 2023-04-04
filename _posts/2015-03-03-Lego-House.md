@@ -5,7 +5,6 @@ date: '2015-03-03T21:35:56+08:00'
 author: Zephur
 layout: post
 guid: 'http://astimego.com/?p=12'
-permalink: /2015/03/03/%e5%b0%8f%e4%b9%90%e9%ab%98%e6%88%bf%e5%ad%90/
 duoshuo_thread_id:
     - '1390240094346018838'
 categories:

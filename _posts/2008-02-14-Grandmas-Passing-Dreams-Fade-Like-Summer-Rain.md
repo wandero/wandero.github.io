@@ -5,7 +5,6 @@ date: '2008-02-14T21:31:31+08:00'
 author: Zephur
 layout: post
 guid: 'http://foro.cloudlet.info/?p=132'
-permalink: /2008/02/14/%e7%a5%96%e6%af%8d%e8%be%9e%e4%b8%96%e7%9a%84%e5%a4%9c%e6%99%9a%ef%bc%8c%e6%88%91%e5%81%9a%e7%9a%84%e7%ac%ac%e4%b8%80%e4%bb%b6%e4%ba%8b%ef%bc%8c%e6%98%af%e4%bc%b8%e6%89%8b%e6%8a%8a%e5%a5%b9%e7%9a%84/
 duoshuo_thread_id:
     - '6275545979991098113'
 mytory_md_visits_count:

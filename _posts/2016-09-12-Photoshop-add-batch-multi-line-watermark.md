@@ -5,7 +5,6 @@ date: '2016-09-12T11:42:18+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/398'
-permalink: /2016/09/12/photoshop-%e5%8d%8a%e8%87%aa%e5%8a%a8%e6%b7%bb%e5%8a%a0%e6%89%b9%e9%87%8f%e5%a4%9a%e8%a1%8c%e6%b0%b4%e5%8d%b0/
 duoshuo_thread_id:
     - '6329286021292753665'
 mytory_md_visits_count:

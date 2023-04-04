@@ -5,7 +5,6 @@ date: '2022-02-01T22:49:16+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1096'
-permalink: /2022/02/01/markdown-%e4%b8%ad%e7%9a%84%e8%a1%a8%e6%a0%bc%e5%ae%bd%e5%ba%a6%e8%b0%83%e6%95%b4%e5%92%8c%e5%b1%85%e4%b8%ad%e8%ae%be%e7%bd%ae/
 mytory_md_path:
     - 'https://github.com/wandero/blog/raw/master/22/220127%20Markdown%20%E4%B8%AD%E7%9A%84%E8%A1%A8%E6%A0%BC%E5%AE%BD%E5%BA%A6%E8%B0%83%E6%95%B4%E5%92%8C%E5%B1%85%E4%B8%AD%E8%AE%BE%E7%BD%AE.md'
 mytory_md_text:

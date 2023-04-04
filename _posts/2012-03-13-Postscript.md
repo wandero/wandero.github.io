@@ -5,7 +5,6 @@ date: '2012-03-13T21:05:53+08:00'
 author: Zephur
 layout: post
 guid: 'http://astimego.com/?p=1'
-permalink: /2012/03/13/hello-world-2/
 duoshuo_thread_id:
     - '1390240094346018829'
 categories:

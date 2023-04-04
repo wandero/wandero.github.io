@@ -5,7 +5,6 @@ date: '2015-01-29T16:03:13+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/282'
-permalink: /2015/01/29/getting-things-done-%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/
 duoshuo_thread_id:
     - '6275546041047581441'
 v2press_who_bookmarked_me:

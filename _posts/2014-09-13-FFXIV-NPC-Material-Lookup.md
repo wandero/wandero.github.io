@@ -5,7 +5,6 @@ date: '2014-09-13T16:18:56+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/257'
-permalink: /2014/09/13/ffxiv-npc%e6%9d%90%e6%96%99%e9%80%9f%e6%9f%a5%e8%a1%a8/
 duoshuo_thread_id:
     - '6275546034244420353'
 mytory_md_visits_count:

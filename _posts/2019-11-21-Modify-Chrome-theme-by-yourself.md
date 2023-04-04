@@ -5,7 +5,6 @@ date: '2019-11-21T21:18:19+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1051'
-permalink: /2019/11/21/%e8%87%aa%e5%b7%b1%e5%8a%a8%e6%89%8b%e7%ae%80%e5%8d%95%e4%bf%ae%e6%94%b9-chrome-%e4%b8%bb%e9%a2%98/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/19/191124%20%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E7%AE%80%E5%8D%95%E4%BF%AE%E6%94%B9%20Chrome%20%E4%B8%BB%E9%A2%98.md'
 mytory_md_text:

@@ -5,7 +5,6 @@ date: '2017-09-05T11:53:39+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/?p=778'
-permalink: /2017/09/05/%e8%8b%b1%e8%af%ad%e6%b8%a3%e7%9a%84%e4%b8%80%e4%ba%9b%e9%a1%b5%e9%9d%a2%e9%98%85%e8%af%bb%e8%be%85%e5%8a%a9-chrome-%e6%89%a9%e5%b1%95/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170905%E8%8B%B1%E8%AF%AD%E6%B8%A3%E7%9A%84%E4%B8%80%E4%BA%9B%E9%A1%B5%E9%9D%A2%E9%98%85%E8%AF%BB%E8%BE%85%E5%8A%A9%20Chrome%20%E6%89%A9%E5%B1%95.md'
 mytory_md_text:

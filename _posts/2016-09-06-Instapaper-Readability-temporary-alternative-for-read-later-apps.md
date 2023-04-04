@@ -5,7 +5,6 @@ date: '2016-09-06T10:02:30+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/396'
-permalink: /2016/09/06/instapaper%ef%bc%8c-readability-%e7%a8%8d%e5%90%8e%e9%98%85%e8%af%bb%e7%b1%bb%e5%ba%94%e7%94%a8%e6%9a%82%e6%97%b6%e6%9b%bf%e4%bb%a3/
 duoshuo_thread_id:
     - '6327033795413279489'
 mytory_md_visits_count:

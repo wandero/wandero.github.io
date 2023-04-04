@@ -5,7 +5,6 @@ date: '2013-02-22T09:20:04+08:00'
 author: Zephur
 layout: post
 guid: 'http://foro.cloudlet.info/t/140'
-permalink: /2013/02/22/chrome-stylish%e9%85%8d%e7%bd%ae%e5%90%8c%e6%ad%a5/
 duoshuo_thread_id:
     - '6275545987066888961'
 mytory_md_visits_count:

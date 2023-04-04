@@ -5,7 +5,6 @@ date: '2017-10-07T21:09:11+08:00'
 author: Zephur
 layout: post
 guid: 'http://astimego.com/?p=60'
-permalink: /2017/10/07/%e5%b9%bc%e5%84%bf%e4%b9%90%e9%ab%98%e6%8e%a8%e8%8d%90/
 categories:
     - Child
 tags:

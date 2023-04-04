@@ -5,7 +5,6 @@ date: '2022-02-01T22:50:12+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1098'
-permalink: /2022/02/01/%e4%bd%bf%e7%94%a8-dell-mobile-connect-%e5%9c%a8-pc-%e4%b8%8a%e4%bd%bf%e7%94%a8%e6%89%8b%e6%9c%ba/
 mytory_md_path:
     - 'https://github.com/wandero/blog/raw/master/22/220127%20%E4%BD%BF%E7%94%A8%20Dell%20Mobile%20Connect%20%E5%9C%A8%20PC%20%E4%B8%8A%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA.md'
 mytory_md_text:

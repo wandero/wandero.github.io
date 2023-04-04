@@ -5,7 +5,6 @@ date: '2016-10-28T10:53:54+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/408'
-permalink: /2016/10/28/%e4%bd%bf%e7%94%a8-typora-%e7%bc%96%e5%86%99%e4%bb%bb%e5%8a%a1%e6%b8%85%e5%8d%95/
 duoshuo_thread_id:
     - '6346343470361215745'
 mytory_md_visits_count:

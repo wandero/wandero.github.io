@@ -5,7 +5,6 @@ date: '2014-10-13T17:46:02+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/268'
-permalink: /2014/10/13/ffxiv-%e7%94%9f%e4%ba%a7%e6%a8%a1%e6%8b%9f%e5%99%a8-to-autohotkey-%e8%84%9a%e6%9c%ac%e8%bd%ac%e6%8d%a2%e5%b7%a5%e5%85%b7/
 duoshuo_thread_id:
     - '6275546040594596609'
 mytory_md_visits_count:

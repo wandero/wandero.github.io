@@ -5,7 +5,6 @@ date: '2015-01-16T10:26:41+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/279'
-permalink: /2015/01/16/evernote-%e7%9a%84%e4%bf%a1%e6%81%af%e7%bb%84%e7%bb%87%e7%bb%93%e6%9e%84/
 duoshuo_thread_id:
     - '6275546040791728897'
 v2press_who_bookmarked_me:

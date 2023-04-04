@@ -5,7 +5,6 @@ date: '2014-08-06T21:22:37+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/250'
-permalink: /2014/08/06/%e4%bd%8e%e7%89%88%e6%9c%ac-chrome-%e5%ae%89%e8%a3%85%e6%89%a9%e5%b1%95%e6%96%b9%e6%b3%95/
 duoshuo_thread_id:
     - '6275546034022122242'
 mytory_md_visits_count:

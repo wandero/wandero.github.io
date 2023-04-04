@@ -5,7 +5,6 @@ date: '2018-02-12T22:29:56+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=923'
-permalink: /2018/02/12/%e5%9c%a8-macbook-air-%e4%b8%8a%e5%ae%89%e8%a3%85-windows-%e5%8d%95%e7%b3%bb%e7%bb%9f/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/18/180212%20%E5%9C%A8%20MacBook%20Air%20%E4%B8%8A%E5%AE%89%E8%A3%85%20Windows%20%E5%8D%95%E7%B3%BB%E7%BB%9F.md'
 mytory_md_text:

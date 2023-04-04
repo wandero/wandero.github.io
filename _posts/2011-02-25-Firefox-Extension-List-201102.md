@@ -5,7 +5,6 @@ date: '2011-02-25T16:16:41+08:00'
 author: Zephur
 layout: post
 guid: 'http://dolo.cloudlet.info/?p=48'
-permalink: /2011/02/25/48/
 duoshuo_thread_id:
     - '6275545908339802881'
 mytory_md_visits_count:

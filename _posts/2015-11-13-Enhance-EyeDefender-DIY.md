@@ -5,7 +5,6 @@ date: '2015-11-13T14:40:50+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/313'
-permalink: /2015/11/13/%e8%87%aa%e5%b7%b1%e5%8a%a8%e6%89%8b%e5%a2%9e%e5%bc%ba-eyedefender%ef%bc%88%e7%95%aa%e8%8c%84%e9%92%9f%e5%ae%9a%e6%97%b6%e5%b1%95%e7%8e%b0%e9%9a%8f%e6%9c%ba%e5%a3%81%e7%ba%b8%ef%bc%89/
 duoshuo_thread_id:
     - '6275546054809092866'
 mytory_md_visits_count:

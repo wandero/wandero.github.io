@@ -5,7 +5,6 @@ date: '2022-03-11T18:13:41+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1102'
-permalink: /2022/03/11/ppt-%e7%a5%9e%e5%99%a8-pandoc/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/22/220310%20PPT%20%E7%A5%9E%E5%99%A8%20Pandoc.md'
 mytory_md_text:

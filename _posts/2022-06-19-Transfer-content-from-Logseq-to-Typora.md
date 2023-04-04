@@ -5,7 +5,6 @@ date: '2022-06-19T11:05:38+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1139'
-permalink: /2022/06/19/logseq-%e5%86%85%e5%ae%b9%e8%bd%ac-typora/
 mytory_md_path:
     - 'https://github.com/wandero/blog/raw/master/22/220619%20Logseq%20%E5%86%85%E5%AE%B9%E8%BD%AC%20Typora.md'
 mytory_md_text:

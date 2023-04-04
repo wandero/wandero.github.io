@@ -5,7 +5,6 @@ date: '2016-08-30T10:17:21+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/391'
-permalink: /2016/08/30/smart-toc%ef%bc%8c%e6%a0%b9%e6%8d%ae%e6%96%87%e6%a1%a3%e7%bb%93%e6%9e%84%e7%94%9f%e6%88%90%e5%af%bc%e8%88%aa%e7%9b%ae%e5%bd%95%e7%9a%84-chrome-%e6%89%a9%e5%b1%95/
 duoshuo_thread_id:
     - '6324440023907189505'
 mytory_md_visits_count:

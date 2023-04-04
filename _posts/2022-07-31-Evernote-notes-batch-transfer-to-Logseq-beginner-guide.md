@@ -5,7 +5,6 @@ date: '2022-07-31T20:39:12+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1159'
-permalink: /2022/07/31/evernote-%e7%ac%94%e8%ae%b0%e6%89%b9%e9%87%8f%e8%bd%ac%e5%85%a5-logseq-%e7%ae%80%e6%98%93%e6%8c%87%e5%8d%97/
 mytory_md_path:
     - 'https://github.com/wandero/blog/raw/master/22/220731%20Evernote%20%E7%AC%94%E8%AE%B0%E6%89%B9%E9%87%8F%E8%BD%AC%E5%85%A5%20Logseq%20%E7%AE%80%E6%98%93%E6%8C%87%E5%8C%97.md'
 mytory_md_text:

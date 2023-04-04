@@ -5,7 +5,6 @@ date: '2017-02-24T15:42:45+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/425'
-permalink: /2017/02/24/%e9%80%9a%e8%bf%87-mklink-%e4%bd%bf%e7%94%a8-dropbox-%e5%90%8c%e6%ad%a5%e4%bb%bb%e6%84%8f%e4%bd%8d%e7%bd%ae%e6%96%87%e4%bb%b6/
 duoshuo_thread_id:
     - '6390577042055758593'
 mytory_md_visits_count:

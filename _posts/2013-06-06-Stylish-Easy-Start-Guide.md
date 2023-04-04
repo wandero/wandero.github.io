@@ -5,7 +5,6 @@ date: '2013-06-06T18:20:49+08:00'
 author: Zephur
 layout: post
 guid: 'http://foro.cloudlet.info/t/171'
-permalink: /2013/06/06/stylish-%e4%b8%8a%e6%89%8b%e7%ae%80%e6%98%93%e6%8c%87%e5%8d%97/
 duoshuo_thread_id:
     - '6275546006448767746'
 mytory_md_visits_count:

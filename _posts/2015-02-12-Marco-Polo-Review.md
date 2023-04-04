@@ -5,7 +5,6 @@ date: '2015-02-12T22:51:09+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/?p=292'
-permalink: /2015/02/12/marco-polo%ef%bc%8c%e8%bf%99%e6%98%af%e4%b8%80%e4%b8%aa%e8%ae%b2%e8%bf%b0%e5%8f%91%e7%94%9f%e5%9c%a8%e6%8d%ae%e8%af%b4%e6%98%af%e5%85%83%e5%92%8c%e5%ae%8b%e7%9a%84%e5%b9%b3%e8%a1%8c%e4%b8%96%e7%95%8c/
 duoshuo_thread_id:
     - '6275546047511003905'
 mytory_md_visits_count:

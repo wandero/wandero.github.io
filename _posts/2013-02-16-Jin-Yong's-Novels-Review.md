@@ -5,7 +5,6 @@ date: '2013-02-16T15:12:47+08:00'
 author: Zephur
 layout: post
 guid: 'http://foro.cloudlet.info/t/127'
-permalink: /2013/02/16/%e9%87%91%e5%ba%b8%e7%be%a4%e4%be%a0%e4%bc%a0%e6%b8%a9%e4%b9%a0%e5%bf%83%e5%be%97/
 duoshuo_thread_id:
     - '6275545969492755201'
 mytory_md_visits_count:

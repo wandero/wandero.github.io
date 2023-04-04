@@ -5,7 +5,6 @@ date: '2017-02-24T16:05:02+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/428'
-permalink: /2017/02/24/%e4%bd%bf%e7%94%a8-onetab-%e5%a4%84%e7%90%86-chrome-%e9%a1%b5%e9%9d%a2%e7%9a%84%e7%a8%8d%e5%90%8e%e9%98%85%e8%af%bb/
 duoshuo_thread_id:
     - '6390582799509750529'
 mytory_md_visits_count:

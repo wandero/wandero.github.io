@@ -5,7 +5,6 @@ date: '2016-04-22T13:49:13+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/372'
-permalink: /2016/04/22/wordpress-%e7%a7%bb%e5%8a%a8%e8%ae%be%e5%a4%87%e8%87%aa%e5%8a%a8%e5%88%87%e6%8d%a2%e4%b8%bb%e9%a2%98/
 duoshuo_thread_id:
     - '6276253549315752706'
 mytory_md_visits_count:

@@ -5,7 +5,6 @@ date: '2017-03-19T09:56:53+08:00'
 author: Zephur
 layout: post
 guid: 'http://cloudlet.info/t/433'
-permalink: /2017/03/19/%e6%a1%8c%e9%9d%a2%e7%95%aa%e8%8c%84%e9%92%9f-pomodone-%e7%9a%84%e4%bd%bf%e7%94%a8%e5%bf%83%e5%be%97/
 duoshuo_thread_id:
     - '6399022870202155778'
 mytory_md_visits_count:

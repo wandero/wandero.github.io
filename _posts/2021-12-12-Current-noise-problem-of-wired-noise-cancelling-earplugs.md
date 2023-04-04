@@ -5,7 +5,6 @@ date: '2021-12-12T21:02:53+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1075'
-permalink: /2021/12/12/%e6%9c%89%e7%ba%bf%e9%99%8d%e5%99%aa%e8%80%b3%e5%a1%9e%e7%9a%84%e7%94%b5%e6%b5%81%e5%99%aa%e9%9f%b3%e9%97%ae%e9%a2%98/
 mytory_md_path:
     - 'https://github.com/wandero/blog/raw/master/21/211212%20%E6%9C%89%E7%BA%BF%E9%99%8D%E5%99%AA%E8%80%B3%E5%A1%9E%E7%9A%84%E7%94%B5%E6%B5%81%E5%99%AA%E9%9F%B3%E9%97%AE%E9%A2%98.md'
 mytory_md_text:

@@ -5,7 +5,6 @@ date: '2012-05-29T23:12:23+08:00'
 author: Zephur
 layout: post
 guid: 'http://foro.cloudlet.info/t/62'
-permalink: /2012/05/29/andor%e6%90%81%e7%bd%ae%e4%ba%86v2press%e7%9a%84%e5%bc%80%e5%8f%91%e8%ae%a1%e5%88%92%ef%bc%8c%e5%8f%af%e6%83%9c%ef%bc%8c%e6%84%9f%e8%a7%89%e8%bf%99%e7%a7%8d%e6%8e%8c%e6%8f%a1%e5%9c%a8%e8%87%aa/
 duoshuo_thread_id:
     - '6275545947824980738'
 mytory_md_visits_count:

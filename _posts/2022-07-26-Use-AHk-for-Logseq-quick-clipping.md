@@ -5,7 +5,6 @@ date: '2022-07-26T22:07:22+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1152'
-permalink: /2022/07/26/%e4%bd%bf%e7%94%a8-ahk-%e5%ae%9e%e7%8e%b0-logseq-%e5%bf%ab%e9%80%9f%e5%89%aa%e8%be%91/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/22/220727%20%E4%BD%BF%E7%94%A8%20AHk%20%E5%AE%9E%E7%8E%B0%20Logseq%20%E5%BF%AB%E9%80%9F%E5%89%AA%E8%BE%91.md'
 mytory_md_text:

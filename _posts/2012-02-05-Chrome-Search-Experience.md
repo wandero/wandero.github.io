@@ -5,7 +5,6 @@ date: '2012-02-05T18:10:43+08:00'
 author: Zephur
 layout: post
 guid: 'http://dolo.cloudlet.info/?p=97'
-permalink: /2012/02/05/chrome%e6%90%9c%e7%b4%a2%e4%bd%bf%e7%94%a8%e7%bb%8f%e9%aa%8c/
 duoshuo_thread_id:
     - '6275545969316594434'
 mytory_md_visits_count:

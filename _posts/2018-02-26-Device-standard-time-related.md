@@ -5,7 +5,6 @@ date: '2018-02-26T20:50:23+08:00'
 author: Zephur
 layout: post
 guid: 'https://astimego.com/?p=111'
-permalink: /2018/02/26/%e8%ae%be%e5%a4%87%e6%a0%87%e5%87%86%e6%97%b6%e9%97%b4%e7%9b%b8%e5%85%b3/
 categories:
     - Life
 tags:

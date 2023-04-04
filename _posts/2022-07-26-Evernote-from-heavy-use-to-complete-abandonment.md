@@ -5,7 +5,6 @@ date: '2022-07-26T21:13:02+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1149'
-permalink: /2022/07/26/evernote-%e4%bb%8e%e9%87%8d%e5%ba%a6%e4%bd%bf%e7%94%a8%e5%88%b0%e5%ae%8c%e5%85%a8%e6%94%be%e5%bc%83/
 mytory_md_path:
     - 'https://raw.githubusercontent.com/wandero/blog/master/22/220726%20Evernote%20%E4%BB%8E%E9%87%8D%E5%BA%A6%E4%BD%BF%E7%94%A8%E5%88%B0%E5%AE%8C%E5%85%A8%E6%94%BE%E5%BC%83.md'
 mytory_md_text:

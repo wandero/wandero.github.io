@@ -5,7 +5,6 @@ date: '2021-12-12T21:22:24+08:00'
 author: Zephur
 layout: post
 guid: 'https://cloudlet.info/?p=1083'
-permalink: /2021/12/12/kodi-%e7%ae%80%e6%98%93%e4%b8%8a%e6%89%8b%e6%8c%87%e5%8d%97/
 mytory_md_path:
     - 'https://github.com/wandero/blog/raw/master/21/211212%20Kodi%20%E7%AE%80%E6%98%93%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.md'
 mytory_md_text:
