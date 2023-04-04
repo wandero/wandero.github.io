@@ -108,9 +108,17 @@ Jekyll 和之前 WordPress 的页面结构大不相同，过度期间搜索引�
 
 404页面会自动跳转主页或其他设置页面
 
-## YAML
+## 永久链接
 
 permalink 决定 post 地址，使用了转换插件的话会增加这个属性（但是中文标题会转换为ASCII 字符，可以使用 VSC 批量删除`permalink:.*\n`（正则），删除后可以使用批处理工具将原来的中文标题批量转换为英文标题（增强 SEO？……）
+
+Next _config.yaml 中默认的永久链接设置为 permalink: pretty（`/:categories/:year/:month/:day/:title/`） ，建议修改为 `permalink: /:slug`
+
+
+
+## YAML
+
+
 
 date 决定发帖时间，似乎还能预定时间发帖
 
