@@ -22,6 +22,7 @@ categories:
 tags:
     - Reading
     - RSS
+    - Inoreader
 ---
 
 在和 Feedly 的鏖战中，Inoreader 的界面恐怕是最大的失分项，网上能找到的样式稀少且大多不适用，只好自己动手，东拼西凑的弄出了一个还能用的样式。

@@ -23,6 +23,7 @@ categories:
 tags:
     - Reading
     - RSS
+    - Inoreader
 ---
 
 （就免费版功能而言）Inoreader 比 Feedly 强大早有耳闻，迟迟没有转换主要是因为 Feedly 吊打 Inoreader 的界面（经过小幅修改即可完美适配中文阅览）。
