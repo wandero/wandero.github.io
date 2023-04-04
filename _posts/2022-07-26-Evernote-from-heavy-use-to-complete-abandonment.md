@@ -8,7 +8,6 @@ guid: 'https://cloudlet.info/?p=1149'
 categories:
     - 方法一二
 tags:
-    - 笔记软件
     - Evernote
 ---
 
