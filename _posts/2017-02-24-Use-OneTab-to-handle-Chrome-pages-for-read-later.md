@@ -21,7 +21,7 @@ categories:
     - 方法一二
 tags:
     - Chrome
-    - Readinging
+    - Reading
 ---
 
 OneTab 通常被视为减少内存的占用，实际上相比减少内存占用，较为理想的稍后阅读功能才是它的核心

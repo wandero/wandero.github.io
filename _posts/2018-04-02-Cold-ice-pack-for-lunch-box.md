@@ -7,7 +7,8 @@ layout: post
 guid: 'https://astimego.com/?p=116'
 categories:
     - 流水春秋
-    - Food
+tags:
+    - Food   
 ---
 
 打算买些便当包里保冷的冰袋，京东自营就一家，看着不怎么靠谱，深水宝就更乱了，正准备放弃想起迪卡侬——产品完美符合需求，直接下单（官网，淘宝店无此商品）。

@@ -17,7 +17,6 @@ categories:
     - 工具二三
 tags:
     - Logseq
-    - 笔记软件
     - Evernote
 ---
 

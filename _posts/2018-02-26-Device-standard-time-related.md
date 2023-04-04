@@ -7,8 +7,7 @@ layout: post
 guid: 'https://astimego.com/?p=111'
 categories:
     - 流水春秋
-tags:
-    - 'online shopping'
+
 ---
 
 iOS 设备原生无法显示秒数，但时钟图标上的秒针似乎是准确的（据说会通过 GPS 校准）

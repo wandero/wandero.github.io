@@ -16,7 +16,7 @@ dotGood:
 categories:
     - 流水春秋
 tags:
-    - Readinging
+    - Reading
 
 ---
 
