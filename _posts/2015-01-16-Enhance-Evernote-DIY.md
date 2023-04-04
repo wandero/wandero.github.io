@@ -20,9 +20,9 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/15/150116%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%AF%B9%20Evernote%20%E8%BF%9B%E8%A1%8C%E4%B8%80%E4%BA%9B%E5%B0%8F%E5%A2%9E%E5%BC%BA.md'
 categories:
-    - 工具一二
+    - 工具二三
 tags:
-    - 工具一二
+    - 工具二三
 ---
 
 （本篇无多少干货，ahk 脚本也写得蹩脚，抛砖引玉）

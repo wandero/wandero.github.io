@@ -18,9 +18,9 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170323%E4%BD%BF%E7%94%A8%20Matcha%20%E4%BD%9C%E4%B8%BA%20Evernote%20%E7%9A%84%E7%A7%BB%E5%8A%A8%E9%98%85%E8%AF%BB%E5%AE%A2%E6%88%B7%E7%AB%AF.md'
 categories:
-    - 工具一二
+    - 工具二三
 tags:
-    - 工具一二
+    - 工具二三
 ---
 
 Matcha 3 是一款很赞的 Evernote ios 客户端，通常都被推荐用来移动端写作。但是对于一个不喜欢手机端操作的 Kindle 控来说，Matcha 作为 Evernote 的移动阅读客户端一样非常出色。

@@ -20,9 +20,9 @@ dotGood:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160621%E4%BD%BF%E7%94%A8%20Typora%20%E4%BD%9C%E4%B8%BA%20Evernote%20%E4%B8%BB%E7%BC%96%E8%BE%91%E5%99%A8.md'
 categories:
-    - 工具一二
+    - 工具二三
 tags:
-    - 工具一二
+    - 工具二三
     - Markdown
     - typora
 ---

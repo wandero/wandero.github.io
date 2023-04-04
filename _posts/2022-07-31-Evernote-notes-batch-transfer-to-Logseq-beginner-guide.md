@@ -16,7 +16,7 @@ dotGood:
 categories:
     - 工具二三
 tags:
-    - 工具一二
+    - 工具二三
     - Logseq
     - 笔记软件
 ---

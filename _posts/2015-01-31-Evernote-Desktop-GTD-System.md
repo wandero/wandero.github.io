@@ -22,9 +22,9 @@ mytory_md_path_old:
 dotGood:
     - '1'
 categories:
-    - 工具一二
+    - 工具二三
 tags:
-    - 工具一二
+    - 工具二三
     - GTD
 ---
 

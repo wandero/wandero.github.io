@@ -20,9 +20,9 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/15/150123Evernote%20%E4%B8%8E%E7%9B%B8%E5%85%B3%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%8C%BA%E5%88%AB%E5%92%8C%E8%81%94%E7%B3%BB.md'
 categories:
-    - 工具一二
+    - 工具二三
 tags:
-    - 工具一二
+    - 工具二三
 ---
 
 Evernote 也用了几年了，但一直处于简单剪辑和初略整理阶段，最近看了电脑玩物的《Evernote超效率数字笔记术》，有些收获，记录如下：

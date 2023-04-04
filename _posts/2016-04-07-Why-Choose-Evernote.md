@@ -18,9 +18,9 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160407%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9%20Evernote%EF%BC%9F.md'
 categories:
-    - 工具一二
+    - 工具二三
 tags:
-    - 工具一二
+    - 工具二三
     - GTD
 ---
 
