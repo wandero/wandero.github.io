@@ -114,8 +114,6 @@ permalink 决定 post 地址，使用了转换插件的话会增加这个属性�
 
 Next _config.yaml 中默认的永久链接设置为 permalink: pretty（`/:categories/:year/:month/:day/:title/`） ，建议修改为 `permalink: /:year/:slug`（文件名转换的 URL 友好的字符串）
 
-
-
 ## YAML
 
 
