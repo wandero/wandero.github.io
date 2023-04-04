@@ -146,3 +146,16 @@
  .posts-expand .post-body {
     text-align: left !important;
 }
+
+
+ul {
+    padding-inline-start: 16px !important;
+}
+
+li {
+  list-style-type: square !important;
+}
+
+.post-body li p { margin: 0 0 0.4em 0}
+
+.with-love {opacity:0}
