@@ -98,8 +98,22 @@ description：摘要功能实在太傻……
 
 在 repo setting 中的 Pages 页面 Custom domain 板块填入 cloudlet.info，保存会自动检查，一般 dns 生效后会通过，勾选下方的 Enforce HTTPS  打开 https 访问
 
+## 404 自动跳转
+
+Jekyll 和之前 WordPress 的页面结构大不相同，过度期间搜索引擎跳转会出现大量 404，可以修改 repo 根目录下的 404.html，清空内容，添加
+
+```
+<meta http-equiv="refresh" content="0; URL='https://cloudlet.info'" />
+```
+
+404页面会自动跳转主页或其他设置页面
+
+
+
 ## 其他
 
 - YAML 里面的 date 决定发帖时间，似乎还能预定时间发帖
 
 - YAML 里面的 tags 区分大小写
+
+  
