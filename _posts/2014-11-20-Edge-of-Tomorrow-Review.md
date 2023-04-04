@@ -10,7 +10,7 @@ duoshuo_thread_id:
 mytory_md_visits_count:
     - '43'
 categories:
-    - Movies
+    - 光影罅隙
 ---
 
 特别是能力失效前后游戏人生的轻松和绝境反击的悲壮，都渲染的非常不错（结尾 Tom 的微笑小赞）

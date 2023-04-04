@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160525Chrome%20%E9%85%8D%E7%BD%AE%E5%90%8C%E6%AD%A5.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - Chrome
     - sync

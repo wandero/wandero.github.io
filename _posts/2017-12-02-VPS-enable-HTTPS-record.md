@@ -14,7 +14,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/17/171202%20VPS%20%E5%90%AF%E7%94%A8%20HTTPS%20%E8%AE%B0%E5%BD%95.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - VPS
 ---

@@ -20,10 +20,10 @@ mytory_md_path_old:
 dotGood:
     - '1'
 categories:
-    - Evernote
+    - 工具一二
 tags:
     - ahk
-    - Evernote
+    - 工具一二
 ---
 
 在剪辑大量材料的时候，个人通常为了方便直接用一个原生标签，这样会给后期处理（原生标签转换成自定义便签）带来很多麻烦，今天突然意识到这个仍然可以用简单的 Autohotkey 脚本解决。

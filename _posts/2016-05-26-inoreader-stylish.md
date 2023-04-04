@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160526Inoreader%20%40%20stylish.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - read
     - RSS

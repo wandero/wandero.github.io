@@ -8,7 +8,7 @@ guid: 'http://astimego.com/?p=7'
 duoshuo_thread_id:
     - '1390240094346018833'
 categories:
-    - 'Master X'
+    - 流水春秋
 ---
 
 Master X：爸爸，你以后给我买一个挖土机

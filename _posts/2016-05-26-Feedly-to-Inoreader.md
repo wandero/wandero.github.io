@@ -19,7 +19,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160526Feedly%20%E8%BD%AC%20Inoreader.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - read
     - RSS

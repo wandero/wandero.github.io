@@ -8,7 +8,7 @@ guid: 'http://astimego.com/?p=9'
 duoshuo_thread_id:
     - '1390240094346018835'
 categories:
-    - 'Master X'
+    - 流水春秋
 ---
 
 我怀疑 X 大人是世界上番茄工作法年纪最小的使用者

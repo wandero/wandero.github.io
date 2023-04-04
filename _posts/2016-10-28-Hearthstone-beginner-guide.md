@@ -20,7 +20,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/161028%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%E7%AE%80%E6%98%93%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.md'
 categories:
-    - Games
+    - 云之彼端
 ---
 
 ## 优点

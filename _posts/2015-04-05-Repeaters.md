@@ -8,7 +8,7 @@ guid: 'http://astimego.com/?p=17'
 duoshuo_thread_id:
     - '1390240094346018841'
 categories:
-    - 'Master X'
+    - 流水春秋
 ---
 
 Master X：  

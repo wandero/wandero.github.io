@@ -14,7 +14,7 @@ mytory_md_mode:
 dotGood:
     - '10'
 categories:
-    - smgmt
+    - 方法一二
 tags:
     - excel
     - GTD

@@ -16,9 +16,9 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170402iOS%20%E6%B5%81%E7%A8%8B%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7%C2%A0Workflow%20%E7%AE%80%E6%98%93%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.md'
 categories:
-    - Evernote
+    - 工具一二
 tags:
-    - Evernote
+    - 工具一二
     - workflow
 ---
 

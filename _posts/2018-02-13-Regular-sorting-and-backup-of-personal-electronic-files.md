@@ -14,7 +14,7 @@ mytory_md_mode:
 dotGood:
     - '2'
 categories:
-    - smgmt
+    - 方法一二
 tags:
     - office
 ---

@@ -12,7 +12,7 @@ mytory_md_visits_count:
 dotGood:
     - '2'
 categories:
-    - Articles
+    - 方法一二
 tags:
     - Chrome
 ---

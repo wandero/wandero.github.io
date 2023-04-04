@@ -8,7 +8,7 @@ guid: 'http://astimego.com/?p=16'
 duoshuo_thread_id:
     - '1390240094346018840'
 categories:
-    - 'Master X'
+    - 流水春秋
 ---
 
 （做”作业“乃 X 大人睡前主要消遣，大有“无作业不睡觉”之劲头，希望他十年之后还能保持……）

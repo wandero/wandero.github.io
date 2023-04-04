@@ -12,7 +12,7 @@ mytory_md_text:
 mytory_md_mode:
     - url
 categories:
-    - Notes
+    - 工具二三
 ---
 
 作为智能电视视频播放器的首选，Kodi 功能强大、定制性高同时也存在各种使用问题，本文以折腾记录为主介绍下 Kodi 的常规使用

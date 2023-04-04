@@ -12,7 +12,7 @@ mytory_md_visits_count:
 dotGood:
     - '37'
 categories:
-    - Games
+    - 云之彼端
 tags:
     - FFXIV
 ---

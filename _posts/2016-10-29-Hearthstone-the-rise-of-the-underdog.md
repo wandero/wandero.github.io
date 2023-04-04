@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/161029%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%E4%B9%8B%E5%B1%8C%E4%B8%9D%E7%9A%84%E9%80%86%E8%A2%AD.md'
 categories:
-    - Games
+    - 云之彼端
 ---
 
 动物园这种卡组充满了宿命的悲剧味道

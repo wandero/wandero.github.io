@@ -6,7 +6,7 @@ author: Zephur
 layout: post
 guid: 'https://astimego.com/?p=131'
 categories:
-    - Life
+    - 流水春秋
 tags:
     - food
 ---

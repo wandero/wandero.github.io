@@ -12,7 +12,7 @@ mytory_md_text:
 mytory_md_mode:
     - url
 categories:
-    - Notes
+    - 工具二三
 ---
 
 不少老又不是太老的 HDMI 电视本身系统陈旧，连接的有线机顶盒又存在种种问题，使用无线电视盒子替换是一种更具性价比和使用体验的方案（特别是针对老人）。

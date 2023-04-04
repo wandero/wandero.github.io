@@ -14,7 +14,7 @@ mytory_md_mode:
 dotGood:
     - '1'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - Chrome
     - mactype

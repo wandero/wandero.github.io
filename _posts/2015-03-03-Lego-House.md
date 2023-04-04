@@ -8,7 +8,7 @@ guid: 'http://astimego.com/?p=12'
 duoshuo_thread_id:
     - '1390240094346018838'
 categories:
-    - 'Master X'
+    - 流水春秋
 ---
 
 Master X：我要用乐高拼个很小的房子

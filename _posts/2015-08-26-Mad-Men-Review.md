@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/15/150826Mad%20Men%20%E8%A7%82%E5%90%8E%E6%84%9F.md'
 categories:
-    - Movies
+    - 光影罅隙
 ---
 
 拜高质量的剧集冲击所赐，看完之后多少有些感触，瞎写一二

@@ -14,7 +14,7 @@ mytory_md_mode:
 dotGood:
     - '1'
 categories:
-    - Notes
+    - 工具二三
 ---
 
 严格来说，是使用（最新版本，目前 v4.1） Dell Mobile Connect 在（任意非 Dell 的 Windows 10）PC 上使用手机（包括 iPhone）（接打电话、接发消息、接收通知）

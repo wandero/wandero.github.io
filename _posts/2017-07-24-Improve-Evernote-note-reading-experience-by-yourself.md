@@ -16,9 +16,9 @@ mytory_md_visits_count:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/17/170724%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E6%94%B9%E5%96%84%20Evernote%20%E7%AC%94%E8%AE%B0%E9%98%85%E8%AF%BB%E4%BD%93%E9%AA%8C.md'
 categories:
-    - Evernote
+    - 工具一二
 tags:
-    - Evernote
+    - 工具一二
 ---
 
 ## 背景

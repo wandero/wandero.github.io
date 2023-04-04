@@ -11,7 +11,7 @@ mytory_md_visits_count:
     - '37'
     - '37'
 categories:
-    - Games
+    - 云之彼端
 tags:
     - ahk
     - diablo

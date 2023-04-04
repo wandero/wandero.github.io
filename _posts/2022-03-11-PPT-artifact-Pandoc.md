@@ -14,8 +14,8 @@ mytory_md_mode:
 dotGood:
     - '2'
 categories:
-    - Articles
-    - smgmt
+    - 方法一二
+    - 方法一二
 tags:
     - office
     - PPT

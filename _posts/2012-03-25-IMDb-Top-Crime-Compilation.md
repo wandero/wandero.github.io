@@ -10,7 +10,7 @@ duoshuo_thread_id:
 mytory_md_visits_count:
     - '23'
 categories:
-    - Movies
+    - 光影罅隙
 ---
 
 ……

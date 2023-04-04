@@ -10,7 +10,7 @@ duoshuo_thread_id:
 mytory_md_visits_count:
     - '22'
 categories:
-    - Notes
+    - 工具二三
 ---
 
 TM快捷发送邮件，右键菜单激活mail窗口，弹出对话框，窗口分三部分，标题，正文，附件

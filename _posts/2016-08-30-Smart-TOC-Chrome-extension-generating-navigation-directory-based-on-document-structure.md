@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160830Smart%20TOC%EF%BC%8C%E6%A0%B9%E6%8D%AE%E6%96%87%E6%A1%A3%E7%BB%93%E6%9E%84%E7%94%9F%E6%88%90%E5%AF%BC%E8%88%AA%E7%9B%AE%E5%BD%95%E7%9A%84%20Chrome%20%E6%89%A9%E5%B1%95.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - chromext
 ---

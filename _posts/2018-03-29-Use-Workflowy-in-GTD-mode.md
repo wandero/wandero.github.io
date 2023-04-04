@@ -14,9 +14,9 @@ mytory_md_mode:
 dotGood:
     - '3'
 categories:
-    - smgmt
+    - 方法一二
 tags:
-    - Evernote
+    - 工具一二
     - GTD
     - workflowy
 ---

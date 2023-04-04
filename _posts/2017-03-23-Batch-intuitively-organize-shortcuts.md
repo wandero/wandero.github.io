@@ -16,7 +16,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170323%E6%89%B9%E9%87%8F%E7%9B%B4%E8%A7%82%E6%95%B4%E7%90%86%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - win7
 ---

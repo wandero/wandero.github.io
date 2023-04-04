@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160906Instapaper%EF%BC%8C%20Readability%20%E7%A8%8D%E5%90%8E%E9%98%85%E8%AF%BB%E7%B1%BB%E5%BA%94%E7%94%A8%E6%9A%82%E6%97%B6%E6%9B%BF%E4%BB%A3.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - read
     - 'read later'

@@ -13,7 +13,7 @@ mytory_md_visits_count:
 dotGood:
     - '13'
 categories:
-    - Games
+    - 云之彼端
 tags:
     - wow
 ---

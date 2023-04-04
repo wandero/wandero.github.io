@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170224%E4%BD%BF%E7%94%A8%20OneTab%20%E5%A4%84%E7%90%86%20Chrome%20%E9%A1%B5%E9%9D%A2%E7%9A%84%E7%A8%8D%E5%90%8E%E9%98%85%E8%AF%BB.md'
 categories:
-    - smgmt
+    - 方法一二
 tags:
     - Chrome
     - read

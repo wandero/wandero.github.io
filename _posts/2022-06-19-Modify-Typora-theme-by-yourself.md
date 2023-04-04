@@ -12,7 +12,7 @@ mytory_md_text:
 mytory_md_mode:
     - url
 categories:
-    - Notes
+    - 工具二三
 tags:
     - dark
     - typora

@@ -8,7 +8,7 @@ guid: 'https://astimego.com/?p=83'
 dotGood:
     - '2'
 categories:
-    - Life
+    - 流水春秋
 ---
 
 ## 网银限额

@@ -16,7 +16,7 @@ mytory_md_visits_count:
 mytory_md_path_old:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170622%20%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%9C%BA%E8%87%B3%20VPS%20%E8%BF%81%E7%A7%BB%E8%AE%B0%E5%BD%95.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - VPS
 ---

@@ -20,7 +20,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/161028%E4%BD%BF%E7%94%A8%20Typora%20%E7%BC%96%E5%86%99%E4%BB%BB%E5%8A%A1%E6%B8%85%E5%8D%95.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - typora
     - write

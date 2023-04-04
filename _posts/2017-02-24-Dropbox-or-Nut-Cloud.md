@@ -21,7 +21,7 @@ dotGood:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/17/170224Dropbox%20%E8%BF%98%E6%98%AF%E5%9D%9A%E6%9E%9C%E4%BA%91.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - dropbox
     - sync

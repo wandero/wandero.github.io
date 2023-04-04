@@ -16,7 +16,7 @@ mytory_md_visits_count:
 mytory_md_path_old:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170622%20%E4%BD%BF%E7%94%A8%20Mytory%20Markdown%20on%20Wordpress%20%E6%9E%84%E5%BB%BA%20Markdown%20%E5%8F%91%E5%B8%83%E7%B3%BB%E7%BB%9F.md'
 categories:
-    - Articles
+    - 方法一二
 tags:
     - blog
     - Markdown

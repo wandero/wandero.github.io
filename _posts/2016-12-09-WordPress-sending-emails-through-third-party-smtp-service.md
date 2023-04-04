@@ -20,7 +20,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/161209WordPress%20%E9%80%9A%E8%BF%87%E7%AC%AC%E4%B8%89%E6%96%B9%20smtp%20%E6%9C%8D%E5%8A%A1%E5%8F%91%E9%80%81%E9%82%AE%E4%BB%B6.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - WordPress
 ---

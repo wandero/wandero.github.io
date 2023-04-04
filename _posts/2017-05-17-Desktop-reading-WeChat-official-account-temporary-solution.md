@@ -16,7 +16,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170517%E6%A1%8C%E9%9D%A2%E7%AB%AF%E9%98%85%E8%AF%BB%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%B4%E6%97%B6%E6%96%B9%E6%A1%88.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - read
     - 微信

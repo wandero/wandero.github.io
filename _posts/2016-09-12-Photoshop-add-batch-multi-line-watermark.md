@@ -19,7 +19,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160912Photoshop%20%E6%B7%BB%E5%8A%A0%E6%89%B9%E9%87%8F%E5%A4%9A%E8%A1%8C%E6%B0%B4%E5%8D%B0.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - office
 ---

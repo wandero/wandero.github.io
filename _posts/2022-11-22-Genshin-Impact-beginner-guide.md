@@ -12,7 +12,7 @@ mytory_md_text:
 mytory_md_mode:
     - url
 categories:
-    - Games
+    - 云之彼端
 ---
 
 （时间黑洞警告）

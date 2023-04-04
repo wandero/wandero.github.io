@@ -8,7 +8,7 @@ guid: 'http://astimego.com/?p=11'
 duoshuo_thread_id:
     - '1390240094346018837'
 categories:
-    - Child
+    - 流水春秋
 tags:
     - Toy
 ---

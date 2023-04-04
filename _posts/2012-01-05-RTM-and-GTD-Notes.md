@@ -12,7 +12,7 @@ mytory_md_visits_count:
 dotGood:
     - '1'
 categories:
-    - smgmt
+    - 方法一二
 tags:
     - GTD
 ---

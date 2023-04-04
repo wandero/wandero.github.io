@@ -21,10 +21,10 @@ mytory_md_path_old:
 dotGood:
     - '1'
 categories:
-    - smgmt
+    - 方法一二
 tags:
     - GTD
-    - Evernote
+    - 工具一二
 ---
 
 ## 纸质版

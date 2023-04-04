@@ -20,7 +20,7 @@ mytory_md_path_old:
 dotGood:
     - '52'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - chromext
 ---

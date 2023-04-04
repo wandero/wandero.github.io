@@ -8,7 +8,7 @@ guid: 'https://astimego.com/?p=125'
 dotGood:
     - '1'
 categories:
-    - Life
+    - 流水春秋
 ---
 
 结合生活实际和个人经验，列一份储备物资参考清单

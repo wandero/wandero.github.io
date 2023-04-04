@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160830Tampermonkey%20%E8%84%9A%E6%9C%AC%E5%90%8C%E6%AD%A5.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - chromext
 ---

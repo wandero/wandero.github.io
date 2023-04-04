@@ -20,10 +20,10 @@ mytory_md_path_old:
 dotGood:
     - '3'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - ahk
-    - Evernote
+    - 工具一二
     - Markdown
     - typora
 ---

@@ -12,11 +12,11 @@ mytory_md_text:
 mytory_md_mode:
     - url
 categories:
-    - Articles
-    - Evernote
-    - smgmt
+    - 方法一二
+    - 工具一二
+    - 方法一二
 tags:
-    - Evernote
+    - 工具一二
     - 笔记软件
 ---
 

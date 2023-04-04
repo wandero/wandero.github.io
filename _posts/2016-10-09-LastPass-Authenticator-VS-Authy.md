@@ -19,7 +19,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/17/170224LastPass%20Authenticator%20VS%20Authy.md'
 categories:
-    - Notes
+    - 工具二三
 ---
 
 单纯使用角度上，LastPass Authenticator 一方面能和 Lastpass 整合，一方面用一键许可替代六字符录入，看上去要强大便利的多

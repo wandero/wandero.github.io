@@ -14,7 +14,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170905%E8%8B%B1%E8%AF%AD%E6%B8%A3%E7%9A%84%E4%B8%80%E4%BA%9B%E9%A1%B5%E9%9D%A2%E9%98%85%E8%AF%BB%E8%BE%85%E5%8A%A9%20Chrome%20%E6%89%A9%E5%B1%95.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - chromext
     - en

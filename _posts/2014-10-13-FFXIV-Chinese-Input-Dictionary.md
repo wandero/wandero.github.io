@@ -13,7 +13,7 @@ dotGood:
     - '2'
     - '2'
 categories:
-    - Games
+    - 云之彼端
 tags:
     - FFXIV
 ---

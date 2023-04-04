@@ -12,9 +12,9 @@ mytory_md_text:
 mytory_md_mode:
     - url
 categories:
-    - Articles
-    - Notes
-    - smgmt
+    - 方法一二
+    - 工具二三
+    - 方法一二
 tags:
     - Logseq
 excerpt_separator: <!-- more -->

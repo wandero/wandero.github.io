@@ -12,8 +12,8 @@ mytory_md_text:
 mytory_md_mode:
     - url
 categories:
-    - Articles
-    - smgmt
+    - 方法一二
+    - 方法一二
 tags:
     - Logseq
 excerpt_separator: <!-- more -->

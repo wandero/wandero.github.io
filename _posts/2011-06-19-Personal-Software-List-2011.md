@@ -11,7 +11,7 @@ mytory_md_visits_count:
     - '104'
     - '104'
 categories:
-    - Articles
+    - 方法一二
 tags:
     - soft
 ---

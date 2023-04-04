@@ -15,7 +15,7 @@ dotGood:
     - '4'
     - '4'
 categories:
-    - Games
+    - 云之彼端
 tags:
     - xbox
 ---

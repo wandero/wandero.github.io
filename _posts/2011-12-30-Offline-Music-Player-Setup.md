@@ -10,7 +10,7 @@ duoshuo_thread_id:
 mytory_md_visits_count:
     - '35'
 categories:
-    - Notes
+    - 工具二三
 ---
 
 播放器智能限速，可设定下载最大速度（不会影响其他网络应用）

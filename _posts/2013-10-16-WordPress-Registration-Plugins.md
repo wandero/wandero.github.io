@@ -10,7 +10,7 @@ duoshuo_thread_id:
 mytory_md_visits_count:
     - '50'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - WordPress
 ---

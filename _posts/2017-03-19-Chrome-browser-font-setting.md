@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://raw.githubusercontent.com/wandero/blog/master/17/170319Chrome%20%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AD%97%E4%BD%93%E8%AE%BE%E7%BD%AE.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - Chrome
 ---

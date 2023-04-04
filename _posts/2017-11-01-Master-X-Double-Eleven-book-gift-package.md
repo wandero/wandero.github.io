@@ -6,7 +6,7 @@ author: Zephur
 layout: post
 guid: 'http://astimego.com/?p=76'
 categories:
-    - Child
+    - 流水春秋
 ---
 
 Peon Y 居然领到了 JD 的 150-50 图书神券，于是身怀利器，杀心自起——继而拔剑四顾，心头茫然——既有 Kindle ，何需纸质——于是走运的 Master X 收到了自己的图书礼包。

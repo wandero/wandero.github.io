@@ -20,7 +20,7 @@ mytory_md_path_old:
 dotGood:
     - '5'
 categories:
-    - smgmt
+    - 方法一二
 tags:
     - GTD
     - 番茄钟

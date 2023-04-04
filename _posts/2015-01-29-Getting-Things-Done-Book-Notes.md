@@ -20,10 +20,10 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/15/150129Getting%20Things%20Done%20%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.md'
 categories:
-    - Evernote
-    - smgmt
+    - 工具一二
+    - 方法一二
 tags:
-    - Evernote
+    - 工具一二
     - GTD
 ---
 

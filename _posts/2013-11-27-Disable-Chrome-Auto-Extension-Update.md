@@ -12,7 +12,7 @@ mytory_md_visits_count:
 dotGood:
     - '13'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - Chrome
 ---

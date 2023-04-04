@@ -20,7 +20,7 @@ mytory_md_path_old:
 dotGood:
     - '2'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - bat
     - GTD

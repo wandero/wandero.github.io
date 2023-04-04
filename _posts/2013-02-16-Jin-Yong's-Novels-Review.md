@@ -12,7 +12,7 @@ mytory_md_visits_count:
 dotGood:
     - '1'
 categories:
-    - Games
+    - 云之彼端
 ---
 
 过年忙里偷闲温习了一下金庸群侠传，还好这款古老的dos游戏有了win上的复刻版本

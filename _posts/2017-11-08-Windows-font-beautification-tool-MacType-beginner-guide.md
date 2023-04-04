@@ -16,7 +16,7 @@ dotGood:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/17/171108%20Windows%20%E5%AD%97%E4%BD%93%E7%BE%8E%E5%8C%96%E7%A5%9E%E5%99%A8%20MacType%20%E7%AE%80%E6%98%93%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97.md'
 categories:
-    - Articles
+    - 方法一二
 tags:
     - mactype
 ---

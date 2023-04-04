@@ -19,7 +19,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160830Dropbox%20%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6%E5%A4%96%E9%93%BE.md'
 categories:
-    - Notes
+    - 工具二三
 tags:
     - 'online storage'
     - sync

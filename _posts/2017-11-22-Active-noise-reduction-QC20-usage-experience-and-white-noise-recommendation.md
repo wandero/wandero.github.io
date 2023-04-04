@@ -16,7 +16,7 @@ mytory_md_path_old:
 dotGood:
     - '1'
 categories:
-    - Notes
+    - 工具二三
 ---
 
 **UPDATE：有线降噪耳机经常会遇到电流声问题，虽然很多是设备和环境问题，但往往很难解决，建议优先考虑无线降噪。**

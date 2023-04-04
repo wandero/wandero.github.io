@@ -16,7 +16,7 @@ mytory_md_path_old:
 dotGood:
     - '26'
 categories:
-    - smgmt
+    - 方法一二
 tags:
     - tally
 ---

@@ -20,9 +20,9 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/15/150204Evernote%20%E9%95%BF%E6%96%87%E6%A1%A3%E7%BC%96%E8%BE%91%E6%96%B9%E6%A1%88.md'
 categories:
-    - Evernote
+    - 工具一二
 tags:
-    - Evernote
+    - 工具一二
     - Markdown
     - typora
 ---

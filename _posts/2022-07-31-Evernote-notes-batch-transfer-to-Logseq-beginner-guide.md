@@ -14,9 +14,9 @@ mytory_md_mode:
 dotGood:
     - '2'
 categories:
-    - Notes
+    - 工具二三
 tags:
-    - Evernote
+    - 工具一二
     - Logseq
     - 笔记软件
 ---
