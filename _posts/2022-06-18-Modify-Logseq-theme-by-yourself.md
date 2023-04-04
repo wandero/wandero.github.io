@@ -16,7 +16,7 @@ dotGood:
 categories:
     - 工具二三
 tags:
-    - dark
+    - CSS
     - Logseq
 ---
 

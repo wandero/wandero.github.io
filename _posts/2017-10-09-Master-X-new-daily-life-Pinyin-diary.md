@@ -7,8 +7,7 @@ layout: post
 guid: 'http://astimego.com/?p=62'
 categories:
     - 流水春秋
-tags:
-    - study
+
 ---
 
 因为年龄关系，Master X 开始读第二个大班 ，本着「美好童年已近尾声」的精神和「留级小朋友压力太小」的现状，Master X 从 Peon Y 手中接了一份新日常。

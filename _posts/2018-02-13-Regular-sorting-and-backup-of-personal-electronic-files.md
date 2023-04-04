@@ -16,7 +16,7 @@ dotGood:
 categories:
     - 方法一二
 tags:
-    - office
+    - Filing
 ---
 
 最近把个人文件（非代码工作）中需要定期整理和备份的任务梳理了一下，记录如下

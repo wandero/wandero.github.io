@@ -13,8 +13,7 @@ dotGood:
     - '37'
 categories:
     - 云之彼端
-tags:
-    - FFXIV
+
 ---
 
 `郑重提示，脚本有风险，偷懒需谨慎`

@@ -1,6 +1,6 @@
 ---
 id: 834
-title: "主动降噪：QC20 使用体验和白噪音推荐\_\_"
+title: "主动降噪：QC20 使用体验和白噪音推荐"
 date: '2017-11-22T21:09:35+08:00'
 author: Zephur
 layout: post

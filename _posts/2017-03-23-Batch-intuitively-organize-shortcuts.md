@@ -18,7 +18,7 @@ mytory_md_path_old:
 categories:
     - 工具二三
 tags:
-    - win7
+    - win10
 ---
 
 不使用 Win + R 大法的同学可能很少有这种诡异的需求，所以先解释一下神器级的 Win + R

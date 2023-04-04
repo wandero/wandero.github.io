@@ -18,7 +18,7 @@ dotGood:
 categories:
     - 方法一二
 tags:
-    - tally
+    - Tally
 ---
 
 ## 背景

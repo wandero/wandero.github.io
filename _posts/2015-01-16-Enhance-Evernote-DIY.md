@@ -22,7 +22,8 @@ mytory_md_path_old:
 categories:
     - 工具二三
 tags:
-    - 工具二三
+    - Evernote
+    - AHK
 ---
 
 （本篇无多少干货，ahk 脚本也写得蹩脚，抛砖引玉）

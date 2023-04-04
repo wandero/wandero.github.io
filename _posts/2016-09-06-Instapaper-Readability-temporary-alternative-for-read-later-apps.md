@@ -20,8 +20,7 @@ mytory_md_path_old:
 categories:
     - 工具二三
 tags:
-    - read
-    - 'read later'
+    - Readinging
 ---
 
 Readability 宣布月底停止服务，Kindle 类稍后阅读只有寻找其他替代服务，比较之下，选择了同样支持 Inoreader 整合、未读文章定期推送 Kindle 的 Instapaper。

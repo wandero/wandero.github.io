@@ -9,6 +9,9 @@ dotGood:
     - '1'
 categories:
     - 流水春秋
+tags:
+    - Food
+    - Prepping
 ---
 
 结合生活实际和个人经验，列一份储备物资参考清单

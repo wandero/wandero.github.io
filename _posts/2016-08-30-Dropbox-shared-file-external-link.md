@@ -21,8 +21,7 @@ mytory_md_path_old:
 categories:
     - 工具二三
 tags:
-    - 'online storage'
-    - sync
+    - Sync
 ---
 
 Dropbox 共享文件的默认链接是

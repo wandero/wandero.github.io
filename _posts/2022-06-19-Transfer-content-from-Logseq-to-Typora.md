@@ -15,7 +15,7 @@ categories:
     - 工具二三
 tags:
     - Logseq
-    - typora
+    - Typora
 ---
 
 Logseq 本身支持Markdown 格式，因此可以直接使用 Markdown 写长文，之后 ctrl+shift+a 全选节点内容，复制到 Typora

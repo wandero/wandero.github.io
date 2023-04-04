@@ -13,8 +13,8 @@ mytory_md_visits_count:
 categories:
     - 云之彼端
 tags:
-    - ahk
-    - diablo
+    - AHK
+
 ---
 
 尽管有所改进，但 D3 仍和 D2 一样是一款凶残的鼠标杀手，为自己的右手着想，就不得不上AutoHotkey 这种虽然有一定风险，但可以减少大量操作的神器了

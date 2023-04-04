@@ -15,7 +15,7 @@ categories:
     - 工具二三
 tags:
     - Chrome
-    - sync
+    - Sync
 ---
 
 没错，又是 Chomre 的配置同步问题……

@@ -12,8 +12,7 @@ mytory_md_visits_count:
 categories:
     - 工具二三
 tags:
-    - 'online storage'
-    - sync
+    - Sync
 ---
 
 目前（2013.2）网盘基本没有太多选择，国外 Dropbox 国内百度云。

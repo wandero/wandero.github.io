@@ -16,9 +16,9 @@ dotGood:
 categories:
     - 工具二三
 tags:
-    - 工具二三
     - Logseq
     - 笔记软件
+    - Evernote
 ---
 
 （折腾完才发现 Yarle 可以直接将 ENEX 转换为支持 Logseq 的markdown，定制项还比较多，当然也相对复杂，推荐使用Yarle而非 本文的 Joplin 转换……）

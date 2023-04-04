@@ -15,6 +15,7 @@ categories:
     - 工具二三
 tags:
     - RSS
+    - Inoreader
 excerpt_separator: <!-- more -->
 ---
 

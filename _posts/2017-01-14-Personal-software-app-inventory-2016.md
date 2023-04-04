@@ -20,7 +20,7 @@ mytory_md_path_old:
 categories:
     - 方法一二
 tags:
-    - soft
+    - Soft
 ---
 
 > 突然看到 2011 年记录的软件清单，于是列了份 2016 年的，变化还是很大…… PC 方面主要是基于 Windows 7

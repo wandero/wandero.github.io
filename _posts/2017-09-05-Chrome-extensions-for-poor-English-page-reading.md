@@ -17,7 +17,7 @@ categories:
     - 工具二三
 tags:
     - chromext
-    - en
+    - EN
 ---
 
 ## 界面 Stylus Proxima-nova

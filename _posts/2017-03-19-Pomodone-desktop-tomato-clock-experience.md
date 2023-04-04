@@ -22,8 +22,7 @@ dotGood:
 categories:
     - 方法一二
 tags:
-    - GTD
-    - 番茄钟
+    - Timing   
 ---
 
 （使用 Pomodone 有一段时间了，心得如下）

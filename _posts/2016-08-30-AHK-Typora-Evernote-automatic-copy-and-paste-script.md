@@ -22,10 +22,7 @@ dotGood:
 categories:
     - 工具二三
 tags:
-    - ahk
-    - 工具二三
-    - Markdown
-    - typora
+    - AHK
 ---
 
 # 说明

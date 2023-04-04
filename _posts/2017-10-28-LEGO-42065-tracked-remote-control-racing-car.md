@@ -7,8 +7,7 @@ layout: post
 guid: 'http://astimego.com/?p=74'
 categories:
     - 流水春秋
-tags:
-    - Toy
+
 ---
 
 X 日志 20171028 号

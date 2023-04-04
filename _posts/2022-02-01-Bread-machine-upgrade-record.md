@@ -8,7 +8,7 @@ guid: 'https://astimego.com/?p=130'
 categories:
     - 流水春秋
 tags:
-    - food
+    - Food
 ---
 
 双 11 589 块（历史低价）购入 松下的 SD-P1000，换下了当初花了 1200 块服役近 8 年的 SD-P104，特此记录

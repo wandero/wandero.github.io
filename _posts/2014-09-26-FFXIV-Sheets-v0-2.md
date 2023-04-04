@@ -13,8 +13,7 @@ dotGood:
     - '7'
 categories:
     - 云之彼端
-tags:
-    - FFXIV
+
 ---
 
 FFXIV Sheets v0.2 （生产配方、素材位置速查、成本计算）

@@ -7,8 +7,7 @@ layout: post
 guid: 'https://astimego.com/?p=88'
 categories:
     - 流水春秋
-tags:
-    - study
+
 ---
 
 > 随着 Master X 识字量略微增加，背诗任务已经由周常进化为日常，每天一首的进度当然值得肯定，但是（合适诗词的搬运工） PeoN Y 不由压力大增 ，刚好在京东的畅读里看到《陪孩子读最美古诗词》，干脆做起了搬运工的搬运工……

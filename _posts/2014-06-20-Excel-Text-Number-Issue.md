@@ -12,7 +12,7 @@ mytory_md_visits_count:
 categories:
     - 工具二三
 tags:
-    - excel
+    - Excel
 ---
 
 某些 csv 转 xls 过程中，会出现一些真实数据为`“            ”`和`“1.234     ”`而显示为空白和 `1.234`之类的单元格

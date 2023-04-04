@@ -14,8 +14,8 @@ mytory_md_mode:
 categories:
     - 工具二三
 tags:
-    - dark
-    - typora
+    - Typora
+    - CSS
 ---
 
 一入 dark 深似海？……入了深色模式的大坑，发现各种应用主题的适配成为一个头痛的问题，这边才把 Logseq 摆平（话说安利我深色模式的还是 Obsidian……），那边 Typora 的问题就出来了，找了一圈主题各种不满意，自己写吧姿势水平又不够，还是老办法，找个模板改改

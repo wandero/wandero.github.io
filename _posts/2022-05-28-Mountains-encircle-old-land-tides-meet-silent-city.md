@@ -13,6 +13,5 @@ mytory_md_mode:
     - url
 categories:
     - 流水春秋
-    - 风沙星辰
 ---
 

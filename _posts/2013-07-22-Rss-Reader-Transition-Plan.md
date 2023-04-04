@@ -12,7 +12,7 @@ mytory_md_visits_count:
 categories:
     - 工具二三
 tags:
-    - read
+    - Reading
     - RSS
 ---
 

@@ -16,7 +16,7 @@ mytory_md_path_old:
 categories:
     - 方法一二
 tags:
-    - soft
+    - Soft
 ---
 
 > **使用环境** Windows7 / iOS **比较版本** 2016

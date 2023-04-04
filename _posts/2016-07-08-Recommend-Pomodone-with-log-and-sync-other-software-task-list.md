@@ -22,8 +22,8 @@ dotGood:
 categories:
     - 工具二三
 tags:
-    - GTD
-    - 番茄钟
+    - Timing
+
 ---
 
 **UPDATE: Pomodone 已支持印象笔记，并且大幅降低了定价，无论免费和收费都算良心应用了**

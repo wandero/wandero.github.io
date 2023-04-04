@@ -14,7 +14,7 @@ mytory_md_mode:
 categories:
     - 工具二三
 tags:
-    - win
+    - win10
 ---
 
 ## 缺点

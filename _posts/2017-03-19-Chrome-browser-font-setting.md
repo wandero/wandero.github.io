@@ -21,6 +21,7 @@ categories:
     - 工具二三
 tags:
     - Chrome
+    - CSS
 ---
 
 （Chrome 原版已经无法使用 custom.css 来定制浏览器字体了，所以本文说的其实是 Centbrowser）

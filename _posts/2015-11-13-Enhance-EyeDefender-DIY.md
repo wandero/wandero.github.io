@@ -22,7 +22,7 @@ dotGood:
 categories:
     - 工具二三
 tags:
-    - bat
+    - BAT
     - GTD
     - 番茄钟
 ---

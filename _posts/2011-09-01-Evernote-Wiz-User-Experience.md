@@ -12,7 +12,7 @@ mytory_md_visits_count:
 categories:
     - 工具二三
 tags:
-    - 工具二三
+    - Evernote
 ---
 
 **（注：本文写于 2011 年 9 月，虽然文中陈述的事项在三年之后似乎也没有什么改变……）**

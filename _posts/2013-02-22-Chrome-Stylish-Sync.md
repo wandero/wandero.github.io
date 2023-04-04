@@ -13,7 +13,7 @@ categories:
     - 工具二三
 tags:
     - Chrome
-    - sync
+    - Sync
 ---
 
 Chrome 可以使用自带工具同步，但因为某种地球人都知道的原因，可靠度不高，另外对于某些扩展配置也无能为力

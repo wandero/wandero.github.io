@@ -22,9 +22,9 @@ mytory_md_path_old:
 categories:
     - 工具二三
 tags:
-    - 工具二三
+    - Evernote
     - Markdown
-    - typora
+    - Typora
 ---
 
 **UPDATE：Typora 出现后，主要使用 Typora 作为 Evernote 的编辑器，详见 [使用 Typora 作为 Evernote 主编辑器](http://cloudlet.info/t/384)**

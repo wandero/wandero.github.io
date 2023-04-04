@@ -15,6 +15,7 @@ categories:
     - 工具二三
 tags:
     - win10
+    - BAT
 excerpt_separator: <!-- more -->
 ---
 

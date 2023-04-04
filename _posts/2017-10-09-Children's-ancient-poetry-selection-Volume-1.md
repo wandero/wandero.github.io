@@ -7,8 +7,7 @@ layout: post
 guid: 'http://astimego.com/?p=67'
 categories:
     - 流水春秋
-tags:
-    - study
+
 ---
 
 > 谨以此诗选献给尊敬但似乎太闲又急需提高文化水平的 Master X

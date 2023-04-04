@@ -21,7 +21,7 @@ mytory_md_path_old:
 categories:
     - 方法一二
 tags:
-    - read
+    - Readinging
 ---
 
 针对不同材料的不同方案

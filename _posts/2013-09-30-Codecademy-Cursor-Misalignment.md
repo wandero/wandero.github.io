@@ -12,7 +12,7 @@ mytory_md_visits_count:
 categories:
     - 工具二三
 tags:
-    - ahk
+    - AHK
 ---
 
 用强制（或修改过）页面字体的浏览器浏览 Codecademy 等站点时，会出现页面编辑器光标错位的情况，感觉是默认字符宽度的设定造成的（使用 Stylish for Chrome 时这种问题也很明显）

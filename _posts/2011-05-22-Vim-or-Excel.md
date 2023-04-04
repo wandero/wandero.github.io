@@ -12,7 +12,8 @@ mytory_md_visits_count:
 categories:
     - 工具二三
 tags:
-    - soft
+    - Soft
+    - Excel
 ---
 
 上手 Totalcmd 从 xbeta 开始，对其同样推崇的vim虽然屡次尝试，缺难以继续，思考了一下原因，发现还是需求决定使用。

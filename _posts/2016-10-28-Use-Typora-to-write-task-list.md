@@ -22,8 +22,8 @@ mytory_md_path_old:
 categories:
     - 工具二三
 tags:
-    - typora
-    - write
+    - Typora
+    - Writing
 ---
 
 Typora 是一个基于 Chromium 的神奇 MarkDown 编辑器，结合 Chromium 自身的 Developer Tools 功能，可以轻松的自定义文本样式，以 [做一份任务清单](http://cloudlet.info/t/406) 中提到的冷藏大象清单为例，在 Evernote 中我们可以实现这样一份清单：

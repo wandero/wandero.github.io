@@ -21,7 +21,7 @@ mytory_md_path_old:
 categories:
     - 工具二三
 tags:
-    - office
+    - Photoshop
 ---
 
 > （Photoshop 入门水平记录
@@ -32,5 +32,5 @@ tags:
 - 复制图层 得到图层2
 - 自由变换 Ctrl+T 将图层2进行变换（旋转、位移、缩放）
 - **再次变换 Ctrl+Shift+Alt+T** 会重复上次的变换得到图层3
-    
+  
     准备好水印文字，自由变换中只进行位移，然后多次“再次变换”就有了水印列，合并复制粘贴，设好图层透明度，搞定。

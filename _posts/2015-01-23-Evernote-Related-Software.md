@@ -22,7 +22,7 @@ mytory_md_path_old:
 categories:
     - 工具二三
 tags:
-    - 工具二三
+    - Evernote
 ---
 
 Evernote 也用了几年了，但一直处于简单剪辑和初略整理阶段，最近看了电脑玩物的《Evernote超效率数字笔记术》，有些收获，记录如下：

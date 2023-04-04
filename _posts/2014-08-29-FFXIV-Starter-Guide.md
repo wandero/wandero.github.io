@@ -11,8 +11,7 @@ mytory_md_visits_count:
     - '34'
 categories:
     - 云之彼端
-tags:
-    - FFXIV
+
 ---
 
 本文基于 FFXIV:ARR（最终幻想14国服开放性测试版本 v2014.08.20.)，内容随个人体验逐步填充（新手摸索中，错漏难免，敬请指正）

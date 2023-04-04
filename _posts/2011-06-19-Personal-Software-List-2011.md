@@ -13,7 +13,7 @@ mytory_md_visits_count:
 categories:
     - 方法一二
 tags:
-    - soft
+    - Soft
 ---
 
 # 系统

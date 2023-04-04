@@ -18,7 +18,8 @@ mytory_md_path_old:
 categories:
     - 方法一二
 tags:
-    - mactype
+    - Mactype
+    - win10
 ---
 
 > **环境** 桌面 Winows 7，浏览器 Centbrowser

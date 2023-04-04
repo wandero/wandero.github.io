@@ -15,6 +15,9 @@ dotGood:
     - '1'
 categories:
     - 流水春秋
+tags:
+    - Readinging
+
 ---
 
 完美的印证了《潜规则》，相比之下，什么《万历十五年》太弱了

@@ -22,8 +22,7 @@ dotGood:
 categories:
     - 工具二三
 tags:
-    - dropbox
-    - sync
+    - Sync
 ---
 
 （一般使用 Dropbox 同步任意文件夹说的比较多，但这类需求实际上坚果云可以直接通过原生功能完成，而要同步任意位置文件，坚果云就爱莫能助了）

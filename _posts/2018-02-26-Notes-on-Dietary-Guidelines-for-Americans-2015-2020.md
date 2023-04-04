@@ -1,6 +1,6 @@
 ---
 id: 1185
-title: "《美国居民膳食指南（2015—2020）》笔记\_\_"
+title: "《美国居民膳食指南（2015—2020）》笔记"
 date: '2018-02-26T20:55:03+08:00'
 author: Zephur
 layout: post
@@ -8,7 +8,7 @@ guid: 'https://astimego.com/?p=112'
 categories:
     - 流水春秋
 tags:
-    - food
+    - Food
 ---
 
 ## 有意识到有待加强的

@@ -11,8 +11,7 @@ mytory_md_visits_count:
     - '23'
 categories:
     - 云之彼端
-tags:
-    - diablo
+
 ---
 
 ### 准备

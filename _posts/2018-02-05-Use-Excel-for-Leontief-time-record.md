@@ -16,9 +16,9 @@ dotGood:
 categories:
     - 方法一二
 tags:
-    - excel
+    - Excel
     - GTD
-    - tally
+    - Timing
 ---
 
 ## 折腾背景

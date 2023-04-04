@@ -17,7 +17,9 @@ categories:
     - 工具二三
 tags:
     - Chrome
-    - mactype
+    - 'Cent Browser'
+    - Mactype
+
 ---
 
 **220801 UPDATE**

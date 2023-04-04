@@ -13,8 +13,6 @@ mytory_md_mode:
     - url
 categories:
     - 方法一二
-    - 工具二三
-    - 方法一二
 tags:
     - Logseq
 excerpt_separator: <!-- more -->

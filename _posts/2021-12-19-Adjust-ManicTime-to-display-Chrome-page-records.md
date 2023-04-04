@@ -13,6 +13,7 @@ mytory_md_mode:
     - url
 categories:
     - 工具二三
+    - Timing
 ---
 
 插件 – 插件管理器 – **禁用** Document timeline：Google Chrome

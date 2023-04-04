@@ -14,8 +14,7 @@ dotGood:
     - '13'
 categories:
     - 云之彼端
-tags:
-    - wow
+
 ---
 
 # wow多开小结

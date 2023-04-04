@@ -16,9 +16,8 @@ dotGood:
 categories:
     - 方法一二
 tags:
-    - 工具二三
     - GTD
-    - workflowy
+    - Workflowy
 ---
 
 ## 背景

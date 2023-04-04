@@ -22,8 +22,7 @@ dotGood:
 categories:
     - 工具二三
 tags:
-    - 'online storage'
-    - sync
+    - Sync
 ---
 
 **UPDATE:** 最后发现坚果云还是无法完全取代 Dropbox，所以……两个都用 
