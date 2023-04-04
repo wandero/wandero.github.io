@@ -113,6 +113,7 @@
  // .menu .menu-item .fa {margin-left:5px !important}
 
  .page-home h2 {
+    display:none !important;
      font-weight: 500 !important;
      font-size: 16px !important;
      margin: 0 0 15px 0 !important;
@@ -141,3 +142,7 @@
  .page-home .site-nav {
      border-bottom: 1px solid #f0f0f0
  }
+
+ .posts-expand .post-body {
+    text-align: left !important;
+}
