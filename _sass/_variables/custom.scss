@@ -155,9 +155,7 @@
      padding: 100px 0 20px !important;
  }
 
- .header-inner {
-    padding: 0 0 0 !important;
-}
+
 
  .posts-collapse .post-title {
      margin-left: 88px !important;
@@ -192,8 +190,14 @@
      opacity: 0
  }
 
- #footer {opacity:0.4}
+ #footer {
+     opacity: 0.4
+ }
 
- .site-nav {margin-top:30px}
+ .site-nav {
+     margin-top: 30px
+ }
 
-.page-home .site-nav {margin-top:40px}
+ .page-home .site-nav {
+     margin-top: 40px
+ }
