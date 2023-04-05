@@ -64,7 +64,7 @@ auto_excerpt:
   length: 200
 ```
 
-手动标记：摘要文档 ` <!-- more -->`之前内容，可以自定义符号，可以在 front-matter 中单独指定`excerpt_separator: <!-- more -->`， 也可以在全局指定，如果开启全局指定，没有  `<!-- more -->`的文档会摘要全文……
+手动标记：摘要文档 ` \<\!\-\-\ \m\o\r\e\ \-\-\>`之前内容，可以自定义符号，可以在 front-matter 中单独指定`excerpt_separator: <!-- more -->`， 也可以在全局指定，如果开启全局指定，没有  `<!-- more -->`的文档会摘要全文……
 
 ```
 #config
