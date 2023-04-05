@@ -21,14 +21,14 @@ permalink: /:year/:slug
 # Pagination
 paginate: 20
 #paginate_path: "/page:num/"
-#archive:
-  #paginate: 10
+archive:
+  paginate: 20
   #paginate_path: "/page:num/"
-#category:
-  #paginate: 10
+category:
+  paginate: 20
   #paginate_path: "/page:num/"
-#tag:
-  #paginate: 10
+tag:
+  paginate: 20
   #paginate_path: "/page:num/"
 
 # Handling Reading
