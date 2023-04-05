@@ -64,7 +64,7 @@ auto_excerpt:
   length: 200
 ```
 
-手动标记：摘要文档 ` \<\!\-\-\ \m\o\r\e\ \-\-\>`之前内容，可以自定义符号，可以在 front-matter 中单独指定`excerpt_separator: <!-- more -->`， 也可以在全局指定，如果开启全局指定，没有  `<!-- more -->`的文档会摘要全文……
+手动标记：摘要文档 标记之前内容，可以自定义标记，可以在 front-matter 中单独指定`excerpt_separator: <!-- more -->`， 也可以在全局指定，如果开启全局指定，没有  标记的文档会摘要全文……，注意设置里的标记要和文档的中完全一致（特别是空格）
 
 ```
 #config
@@ -130,3 +130,13 @@ local_search:
   enable: true
 ```
 
+Next 也集成了 Disqus，同样配置中设定，注册 Disqus后将 shortname 等信息填好就行
+
+```
+disqus:
+  enable: true
+  shortname: cloudlet
+  count: false
+```
+
+ 
