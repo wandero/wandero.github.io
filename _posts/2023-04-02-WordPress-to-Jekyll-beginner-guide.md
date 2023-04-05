@@ -116,9 +116,7 @@ Next _config.yaml 中默认的永久链接设置为 permalink: pretty（`/:categ
 
 ## YAML
 
+- date 决定发帖时间，似乎还能预定时间发帖
 
-
-date 决定发帖时间，似乎还能预定时间发帖
-
-tags 区分大小写
+- tags 区分大小写
 
