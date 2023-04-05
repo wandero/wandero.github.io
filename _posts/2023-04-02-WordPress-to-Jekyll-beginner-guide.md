@@ -122,7 +122,7 @@ Next _config.yaml 中默认的永久链接设置为 permalink: pretty（`/:categ
 
 ## 其他
 
-Next 居然支持本地搜索……，配置中打开就行
+Next 居然支持本地搜索……配置中打开就行
 
 ```
 # Local search
@@ -130,7 +130,7 @@ local_search:
   enable: true
 ```
 
-Next 也集成了 Disqus，同样配置中设定，注册 Disqus后将 shortname 等信息填好就行
+Next 也集成了 Disqus，同样配置中设定，注册 Disqus 后将 shortname 等信息填好就行
 
 ```
 disqus:
