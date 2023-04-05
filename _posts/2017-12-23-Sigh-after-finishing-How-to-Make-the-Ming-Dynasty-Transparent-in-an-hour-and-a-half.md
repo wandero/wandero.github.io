@@ -14,9 +14,8 @@ mytory_md_mode:
 dotGood:
     - '1'
 categories:
-    - 流水春秋
-tags:
-    - Reading
+    - 风沙星辰
+
 
 ---
 
