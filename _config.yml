@@ -22,13 +22,13 @@ permalink: /:year/:slug
 paginate: 20
 #paginate_path: "/page:num/"
 archive:
-  paginate: 20
+  paginate: 200
   #paginate_path: "/page:num/"
 category:
-  paginate: 20
+  paginate: 200
   #paginate_path: "/page:num/"
 tag:
-  paginate: 20
+  paginate: 200
   #paginate_path: "/page:num/"
 
 # Handling Reading
