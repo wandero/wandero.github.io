@@ -53,7 +53,7 @@
 
 ## 摘要
 
-next 支持 3 种摘要方式，需要在 _config.yml 设置
+Next 支持 3 种摘要方式，需要在 _config.yml 设置
 
 自动摘要：摘要文档第一段内容指定字数（如果第一段只是一个标题，那么抱歉，只会摘要这个标题，太傻了……）
 
@@ -119,4 +119,14 @@ Next _config.yaml 中默认的永久链接设置为 permalink: pretty（`/:categ
 - date 决定发帖时间，似乎还能预定时间发帖
 
 - tags 区分大小写
+
+## 其他
+
+Next 居然支持本地搜索……，配置中打开就行
+
+```
+# Local search
+local_search:
+  enable: true
+```
 
