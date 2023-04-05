@@ -31,6 +31,7 @@ tags:
 `*:not([class*="icon"]):not(i){font-family:"Comic sans Ms","Microsoft Yahei",sans-serif !important;}`
 
 这样虽然能起到强制设定中英文字体的问题，但是也容易导致一些使用特殊字体的页面出现乱码和无法使用页面自定的英文字体等问题。
+<!-- more -->
 
 更好的办法是使用 CSS3 的 `@font-face` 规则针对指定 UNICODE 字符范围的字符使用指定字体映射，例如
 

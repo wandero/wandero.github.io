@@ -15,7 +15,7 @@ tags:
     - Chrome
 ---
 
-# 悲催的Firefox
+## 悲催的Firefox
 
 在Chrome越来越成熟的同时，Firefox却越来越迟钝，reeder for chrome虽然称不上最后一根稻草，却实在是firefox控彻底倒向chrome的前奏。
 
@@ -27,7 +27,7 @@ tags:
 
 当然，没有性能不行，只有性能也不行，受限于程序架构的问题，chrome的扩展和定制性远没有firefox强大（但反过来说，正是这些强大而无约束的扩展更进一步的拖慢了firefox），但也足够一般使用了。
 
-# 扩展程序
+## 扩展程序
 
 首先，因为标签栏和书签栏体验的关系，个人选择了ChromePlus而非chrome（枫树浏览器自带双击关闭标签栏，不显示标签栏关闭按钮，自动隐藏书签栏等功能，似乎没发现类似扩展）。其次，Chrome的扩展相比firefox简直是少的可怜……
 
@@ -42,7 +42,7 @@ tags:
 - Xmarks Bookmark Sync（和firefox同步）
 - Chrome Leopard 清爽浅色调主题
 
-# 亮点
+## 亮点
 
 首先当然是reeder for chrome，然后是甩出firefox几条街的响应速度……
 
@@ -54,7 +54,7 @@ tags:
 
 个人数据同步似乎不错，不过使用上好像有些问题
 
-# 存在问题
+## 存在问题
 
 默认下载和枫树下载都有点糟糕
 

@@ -23,6 +23,7 @@ tags:
 只要把应用放到 Chrome 就可以用丰富的扩展提升体验，包括 Stylus 修改界面，Tampermonkey 添加脚本，Autohotkey 便利操作，等等
 
 这里附带一个 ahk
+<!-- more -->
 
 ```autohotkey
    #IfWinActive, ahk_class WeChatMainWndForPC

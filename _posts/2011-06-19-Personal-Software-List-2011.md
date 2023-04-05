@@ -16,7 +16,7 @@ tags:
     - Soft
 ---
 
-# 系统
+## 系统
 
 - Totalcmd 神器级资源管理器，roebin版用的很顺手
 - Everything 强力文件搜索
@@ -26,7 +26,7 @@ tags:
 
 <!-- more -->
 
-# 网络
+## 网络
 
 - Firefox 神器级网页浏览器
 - TheWorld 辅助浏览器，不合标准的总是那些官方机构
@@ -36,7 +36,7 @@ tags:
 - TM2009 被qq的最佳选择
 - LibFetion 第三方飞信软件，电信比腾讯就厚道，没有南山法院
 
-# 下载
+## 下载
 
 - firefox自带 配合firefox的专用链破解脚本普通应用已经足够
 - downthemall(firefox) 普通下载多线程化
@@ -44,7 +44,7 @@ tags:
 - emule-xtreme 资源下载
 - 迅雷7（虚拟机） 虽然很无耻，但会员的离线下载的确很有用
 
-# 多媒体
+## 多媒体
 
 - Pure Codec 用的还是两年前的圣诞版
 - SPlayer 主要用来自动下字幕，懒的时候也也会用来凑合
@@ -52,20 +52,20 @@ tags:
 - Picasa 图片管理
 - IrfanView 图片浏览
 
-# 信息管理
+## 信息管理
 
 - Evernote 强力资料剪辑编辑整理管理
 - CintaNotes 轻量笔记
 - KeePass Password Safe 2 强大的密码管理软件
 - Lastpass（firefox） 浏览器密码管理，安全便利自己权衡
 
-# 美化
+## 美化
 
 - WindowBlinds 主题美化，限xp
 - IconPackager 图标美化，限xp
 - ha\_PSTrayFactory 托盘图标管理，限xp
 
-# 其他
+## 其他
 
 - 7-Zip winrar的良好替代
 - Beyond Compare 2 文件比较
@@ -87,7 +87,7 @@ tags:
 - Workrave 实现诸如每18分钟休息2分钟的提醒
 - XMind 养眼的思维导图软件
 
-# BTW:
+## BTW:
 
 1. 杀软 不要听半桶水吹嘘啥良好使用习惯，从不那啥那啥，一旦中招，后悔也救不了半K数据，一个低占用常驻后台的的杀软是日常应用必不可少的。
 2. 安全 安全问题在这片神奇的土地就是一个神奇的笑话，涉及到最多的几个软件如qq，360，个人认为在国内这些根本是无法避免的事，除非像明文传输这类太过低级或者在进行的是维护世界和平之类神圣任务，否则无视安全问题直接选用最适合的吧。
