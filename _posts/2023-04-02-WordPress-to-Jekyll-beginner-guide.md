@@ -86,7 +86,7 @@ description：摘要功能实在太傻……
 
 直接在 `_sass\_variables\custom.scss` 中添加代码，普通 CSS 代码也可以
 
-注意代码有错误会导致 pages build and deployment 无法完成。repo 的 Actions 页面可以查看，前面显示叉。报错 github-pages can't satisfy your Gemfile's dependencies. 但实际上可能是由 CSS 语法错误引起的。
+注意代码有错误会导致 pages build and deployment 无法完成。报错 github-pages can't satisfy your Gemfile's dependencies. 但实际上可能是由 CSS 语法错误引起的。repo 的 Actions 页面可以点击报错的 workflow（前面显示叉），点击左上的 Summary 中的 Jobs X build，会定位到具体错误。
 
 ## 自定义域名
 
