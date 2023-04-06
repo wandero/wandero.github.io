@@ -211,3 +211,7 @@
  .copyright {
      display: inline-block;
  }
+
+ .powered-by::after {
+     content: "";
+ }
