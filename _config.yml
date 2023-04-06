@@ -20,16 +20,16 @@ permalink: /:year/:slug
 
 # Pagination
 paginate: 20
-#paginate_path: "/page:num/"
+# paginate_path: "/page:num/"
 archive:
-  paginate: 200
-  paginate_path: "/page:num/"
+  paginate: 2000
+  # paginate_path: "/page:num/"
 category:
-  paginate: 90
-  paginate_path: "/page:num/"
+  paginate: 2000
+  # paginate_path: "/page:num/"
 tag:
-  paginate: 200
-  paginate_path: "/page:num/"
+  paginate: 2000
+  # paginate_path: "/page:num/"
 
 # Handling Reading
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
