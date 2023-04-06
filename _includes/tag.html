@@ -9,17 +9,22 @@
   {% assign paginate = site.tag.paginate | default: site.paginate  %}
   {% assign paginate_path = site.tag.paginate_path | default: site.paginate_path  %}
 
-  {% assign tag_names = site.tags | map: "first" %}
-  {% assign sorted_tags = tag_names | sort | reverse %}
+  {% assign sorted_tags = "" | split: "" %}
+
+  {% for tag_posts in site.tags %}
+    {% assign tag = tag_posts[0] | url_encode | replace: '+', '%20' %}
+    {% assign sorted_tags = sorted_tags | push: tag %}
+  {% endfor %}
+
+  {% assign sorted_tags = sorted_tags | sort | reverse %}
 
   {% for tag in sorted_tags %}
-    {% assign tag_url = tag | url_encode | replace: '+', '%20' %}
     {% assign posts = site.tags[tag] %}
 
     {% for post in posts %}
       {% if paginate > 0 %}
         {% assign page_num = forloop.index0 | divided_by: paginate | plus: 1 %}
-        {% assign route = '/' | append: tag_url %}
+        {% assign route = '/' | append: tag %}
         {% if page_num != 1 %}
           {% assign route = route | append: paginate_path | replace: ':num', page_num %}
         {% endif %}
