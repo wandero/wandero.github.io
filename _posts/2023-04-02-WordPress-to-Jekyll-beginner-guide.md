@@ -118,11 +118,17 @@ Next _config.yaml 中默认的永久链接设置为 permalink: pretty（`/:categ
 
 Categories 和 Tags 页面在默认文章数量的设置下似乎会出现问题，page1 正常，page2 不显示（Archives 不会），有说是 Github Pages 处理速度慢导致的，也可以直接将 _config.yml 中的 Pagination 条目设置为1000 等数量使其不分页。
 
+## posts 文件夹
+
+Jekyll 中的 _posts 文件夹内的子文件夹中可以被正常读取，所以可以按照习惯的结构组织 post 文件夹，比方说将今年以外的所有 post 都扔到 previous 文件夹，不影响 blog 的显示
+
 ## YAML
 
 - date 决定发帖时间，似乎还能预定时间发帖
 
 - tags 区分大小写
+
+
 
 ## 其他
 
