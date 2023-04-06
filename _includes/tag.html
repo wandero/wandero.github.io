@@ -9,16 +9,14 @@
   {% assign paginate = site.tag.paginate | default: site.paginate  %}
   {% assign paginate_path = site.tag.paginate_path | default: site.paginate_path  %}
 
-  {% assign sorted_tags = "" | split: "" %}
+  {% assign tags_reversed = "" | split: "" %}
 
   {% for tag_posts in site.tags %}
     {% assign tag = tag_posts[0] | url_encode | replace: '+', '%20' %}
-    {% assign sorted_tags = sorted_tags | push: tag %}
+    {% assign tags_reversed = tag | concat: tags_reversed %}
   {% endfor %}
 
-  {% assign sorted_tags = sorted_tags | sort | reverse %}
-
-  {% for tag in sorted_tags %}
+  {% for tag in tags_reversed %}
     {% assign posts = site.tags[tag] %}
 
     {% for post in posts %}
