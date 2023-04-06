@@ -25,7 +25,7 @@ archive:
   paginate: 200
   #paginate_path: "/page:num/"
 category:
-  paginate: 200
+  paginate: 90
   #paginate_path: "/page:num/"
 tag:
   paginate: 200
