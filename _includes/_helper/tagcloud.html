@@ -2,8 +2,14 @@
 {% capture tagcloud %}
   {% assign reversed_tags = site.tags | map: '0' | reverse %}
   {% assign reversed_values = site.tags | map: '1' | reverse %}
-  {% assign reversed_tags_combined = reversed_tags | zip: reversed_values %}
-  {% assign tags = reversed_tags_combined %}
+  {% assign tags = '' | split: '' %}
+  {% for i in (0..site.tags.size) %}
+    {% if i >= reversed_tags.size %}
+      {% break %}
+    {% endif %}
+    {% assign tag_pair = reversed_tags[i] | split: '' | push: reversed_values[i] %}
+    {% assign tags = tags | push: tag_pair %}
+  {% endfor %}
   {% assign max = max_font %}
   {% assign min = min_font %}
   {% assign sizes = '' | split: '' %}
