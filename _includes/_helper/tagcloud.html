@@ -1,14 +1,6 @@
 {% comment %} tagcloud(min_font, max_font, amount, color, start_color, end_color) {% endcomment %}
 {% capture tagcloud %}
-  {% assign site_tags = site.tags %}
-  {% assign reversed_tags = '' | split: ',' %}
-
-  {% for tag in site_tags %}
-    {% if tag != nil %}
-      {% assign reversed_tags = tag | push: reversed_tags %}
-    {% endif %}
-  {% endfor %}
-
+  {% assign tags = site.tags %}
   {% assign max = max_font %}
   {% assign min = min_font %}
   {% assign sizes = '' | split: '' %}
@@ -16,26 +8,24 @@
   {% assign start_color = start_color | split: ',' %}
   {% assign end_color = end_color | split: ',' %}
 
-  {% for tag in reversed_tags %}
-    {% if tag != nil and forloop.index > amount %}
+  {% for tag in tags %}
+    {% if forloop.index > amount %}
       {% break %}
     {% endif %}
-    {% if tag != nil %}
-      {% assign sizes = sizes | push: tag[1].size %}
-    {% endif %}
+    {% assign sizes = sizes | push: tag[1].size %}
   {% endfor %}
 
   {% assign sizes = sizes | uniq | sort %}
   {% assign length = sizes.size | minus: 1 %}
 
-  {% for tag in reversed_tags %}
-    {% if tag != nil and forloop.index > amount %}
+  {% for tag in tags %}
+    {% if forloop.index > amount %}
       {% break %}
     {% endif %}
 
     {% assign ratio = 0 %}
 
-    {% if length > 0 and tag != nil %}
+    {% if length > 0 %}
       {% for size in sizes %}
         {% if size == tag[1].size %}
           {% assign ratio = forloop.index0 | times: 1.0 | divided_by: length %}
@@ -60,10 +50,8 @@
       {% assign mid_color = 'rgb(' | append: mid_color[0] | append: ',' | append: mid_color[1] | append: ',' | append: mid_color[2] | append: ')' %}
       {% assign style = style | append: 'color: ' | append: mid_color %}
     {% endif %}
-    {% if tag != nil %}
-      {% assign tag_url_encode = tag[0] | url_encode | replace: '+', '%20' %}
-      <a href="{{ '/tag/#/' | relative_url | append: tag_url_encode }}" style="{{ style }}">{{ tag[0] }}</a>
-    {% endif %}
+    {% assign tag_url_encode = tag[0] | url_encode | replace: '+', '%20' %}
+    <a href="{{ '/tag/#/' | relative_url | append: tag_url_encode }}" style="{{ style }}">{{ tag[0] }}</a>
   {% endfor %}
 
 {% endcapture %}
