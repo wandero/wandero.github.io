@@ -1,8 +1,8 @@
 {% assign tags = site.tags %}
 {% assign num_tags = tags.size %}
 
-{% for i in (0..num_tags) %}
-  {% assign tag_index = num_tags | minus: i | minus: 1 %}
+{% for i in (1..num_tags) %}
+  {% assign tag_index = num_tags | minus: i %}
   {% assign tag = tags[tag_index] %}
 
   {% assign ratio = 0 %}
