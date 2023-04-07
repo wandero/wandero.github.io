@@ -1,6 +1,6 @@
 {% comment %} tagcloud(min_font, max_font, amount, color, start_color, end_color) {% endcomment %}
 {% capture tagcloud %}
-  {% assign tags = site.tags | sort: "size" | reverse %}
+  {% assign tags = site.tags | sort: "0" %}
   {% assign max = max_font %}
   {% assign min = min_font %}
   {% assign sizes = '' | split: '' %}
@@ -17,6 +17,8 @@
 
   {% assign sizes = sizes | uniq | sort %}
   {% assign length = sizes.size | minus: 1 %}
+
+  {% assign tags = tags | reverse %}
 
   {% for tag in tags %}
     {% if forloop.index > amount %}
