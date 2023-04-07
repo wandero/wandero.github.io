@@ -17,7 +17,7 @@
   {% assign end_color = end_color | split: ',' %}
 
   {% for tag in reversed_tags %}
-    {% if forloop.index > amount %}
+    {% if tag != nil and forloop.index > amount %}
       {% break %}
     {% endif %}
     {% if tag != nil %}
@@ -29,7 +29,7 @@
   {% assign length = sizes.size | minus: 1 %}
 
   {% for tag in reversed_tags %}
-    {% if forloop.index > amount %}
+    {% if tag != nil and forloop.index > amount %}
       {% break %}
     {% endif %}
 
