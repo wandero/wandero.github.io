@@ -4,7 +4,9 @@
   {% assign reversed_tags = '' | split: ',' %}
 
   {% for tag in site_tags %}
-    {% assign reversed_tags = tag | push: reversed_tags %}
+    {% if tag != nil %}
+      {% assign reversed_tags = tag | push: reversed_tags %}
+    {% endif %}
   {% endfor %}
 
   {% assign max = max_font %}
@@ -18,7 +20,9 @@
     {% if forloop.index > amount %}
       {% break %}
     {% endif %}
-    {% assign sizes = sizes | push: tag[1].size %}
+    {% if tag != nil %}
+      {% assign sizes = sizes | push: tag[1].size %}
+    {% endif %}
   {% endfor %}
 
   {% assign sizes = sizes | uniq | sort %}
@@ -31,7 +35,7 @@
 
     {% assign ratio = 0 %}
 
-    {% if length > 0 %}
+    {% if length > 0 and tag != nil %}
       {% for size in sizes %}
         {% if size == tag[1].size %}
           {% assign ratio = forloop.index0 | times: 1.0 | divided_by: length %}
@@ -56,8 +60,10 @@
       {% assign mid_color = 'rgb(' | append: mid_color[0] | append: ',' | append: mid_color[1] | append: ',' | append: mid_color[2] | append: ')' %}
       {% assign style = style | append: 'color: ' | append: mid_color %}
     {% endif %}
-    {% assign tag_url_encode = tag[0] | url_encode | replace: '+', '%20' %}
-    <a href="{{ '/tag/#/' | relative_url | append: tag_url_encode }}" style="{{ style }}">{{ tag[0] }}</a>
+    {% if tag != nil %}
+      {% assign tag_url_encode = tag[0] | url_encode | replace: '+', '%20' %}
+      <a href="{{ '/tag/#/' | relative_url | append: tag_url_encode }}" style="{{ style }}">{{ tag[0] }}</a>
+    {% endif %}
   {% endfor %}
 
 {% endcapture %}
