@@ -57,4 +57,5 @@
     <a href="{{ '/tag/#/' | relative_url | append: tag_url_encode }}" style="{{ style }}">{{ tag[0] }}</a>
   {% endfor %}
 
-{% end
+{% endcapture %}
+{% assign tagcloud = tagcloud | normalize_whitespace %}
