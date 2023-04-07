@@ -1,19 +1,16 @@
 {% assign tags = site.tags %}
-{% assign tags_reversed = '' | split: '' %}
-{% for i in (tags.size - 1)..0 %}
-  {% assign tags_reversed = tags_reversed | push: tags[i] %}
-{% endfor %}
+{% assign num_tags = tags.size %}
 
-{% for tag in tags_reversed %}
-  {% if forloop.index > amount %}
-    {% break %}
-  {% endif %}
+{% for i in (0..num_tags) %}
+  {% assign tag_index = num_tags | minus: i | minus: 1 %}
+  {% assign tag = tags[tag_index] %}
 
   {% assign ratio = 0 %}
   {% assign tmp = max | minus: min | times: ratio %}
   {% assign size = tmp | plus: min %}
   {% assign tmp = size | round: 2 %}
   {% assign style = 'font-size: ' | append: tmp | append: unit | append: ';' %}
+  
   {% if color %}
     {% assign mid_color = '' | split: '' %}
     {% for i in (0..2) %}
@@ -24,6 +21,7 @@
     {% assign mid_color = 'rgb(' | append: mid_color[0] | append: ',' | append: mid_color[1] | append: ',' | append: mid_color[2] | append: ')' %}
     {% assign style = style | append: 'color: ' | append: mid_color %}
   {% endif %}
+  
   {% assign tag_url_encode = tag[0] | url_encode | replace: '+', '%20' %}
   <a href="{{ '/tag/#/' | relative_url | append: tag_url_encode }}" style="{{ style }}">{{ tag[0] }}</a>
 {% endfor %}
