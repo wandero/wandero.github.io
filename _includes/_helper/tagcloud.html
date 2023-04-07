@@ -1,17 +1,7 @@
 {% comment %} tagcloud(min_font, max_font, amount, color, start_color, end_color) {% endcomment %}
 {% capture tagcloud %}
-  {% assign site_tags = site.tags %}
-  {% assign num_tags = site_tags.size %}
-  {% assign tags = '' | split: '' %}
-
-  {% for i in (0..num_tags) %}
-    {% assign tag_index = num_tags | minus: i %}
-    {% assign tag = site_tags[tag_index] %}
-    {% if tag %}
-      {% assign tags = tags | push: tag %}
-    {% endif %}
-  {% endfor %}
-
+  {% assign site_tags = site.tags | sort %}
+  {% assign reversed_tags = site_tags | reverse %}
   {% assign max = max_font %}
   {% assign min = min_font %}
   {% assign sizes = '' | split: '' %}
@@ -19,7 +9,7 @@
   {% assign start_color = start_color | split: ',' %}
   {% assign end_color = end_color | split: ',' %}
 
-  {% for tag in tags %}
+  {% for tag in reversed_tags %}
     {% if forloop.index > amount %}
       {% break %}
     {% endif %}
@@ -29,7 +19,7 @@
   {% assign sizes = sizes | uniq | sort %}
   {% assign length = sizes.size | minus: 1 %}
 
-  {% for tag in tags %}
+  {% for tag in reversed_tags %}
     {% if forloop.index > amount %}
       {% break %}
     {% endif %}
