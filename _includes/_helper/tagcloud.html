@@ -1,6 +1,16 @@
 {% comment %} tagcloud(min_font, max_font, amount, color, start_color, end_color) {% endcomment %}
 {% capture tagcloud %}
-  {% assign tags = site.tags %}
+
+{% assign site_tags = site.tags %}
+{% assign num_tags = site_tags.size %}
+{% assign tags = '' | split: '' %}
+
+{% for i in (1..num_tags) %}
+  {% assign tag_index = num_tags | minus: i %}
+  {% assign tag = site_tags[tag_index] %}
+  {% assign tags = tags | push: tag %}
+{% endfor %}
+
   {% assign max = max_font %}
   {% assign min = min_font %}
   {% assign sizes = '' | split: '' %}
