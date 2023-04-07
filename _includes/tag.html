@@ -9,8 +9,7 @@
   {% assign paginate = site.tag.paginate | default: site.paginate  %}
   {% assign paginate_path = site.tag.paginate_path | default: site.paginate_path  %}
 
-  {% assign sorted_tags = site.tags | sort %}
-  {% assign sorted_tags = sorted_tags | reverse %}
+  {% assign sorted_tags = site.tags | sort: 'size' | reverse %}
   {% for tag_posts in sorted_tags %}
     {% assign tag = tag_posts[0] | url_encode | replace: '+', '%20' %}
     {% assign posts = tag_posts[1] %}
