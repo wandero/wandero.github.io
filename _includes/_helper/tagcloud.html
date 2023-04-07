@@ -1,7 +1,7 @@
 {% comment %} tagcloud(min_font, max_font, amount, color, start_color, end_color) {% endcomment %}
 {% capture tagcloud %}
   {% assign tags = site.tags %}
-  {% assign reversed_tags = '' | split: '' %}
+  {% assign reversed_tags = '' %}
   {% for tag in tags %}
     {% assign reversed_tags = tag | unshift: reversed_tags %}
   {% endfor %}
