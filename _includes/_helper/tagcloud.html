@@ -21,7 +21,7 @@
 
   {% for tag in reversed_tags %}
     {% if forloop.index > amount %}
-      {% break %}
+      {% continue %}
     {% endif %}
 
     {% assign ratio = 0 %}
