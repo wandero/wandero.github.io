@@ -1,18 +1,16 @@
 {% comment %} tagcloud(min_font, max_font, amount, color, start_color, end_color) {% endcomment %}
 {% capture tagcloud %}
-
-  {% assign tags_reversed = '' | split: '' %}
-  {% for tag in site.tags %}
-    {% assign tags_reversed = tags_reversed | unshift: tag %}
-  {% endfor %}
-
+  {% assign reversed_tags = site.tags | map: '0' | reverse %}
+  {% assign reversed_values = site.tags | map: '1' | reverse %}
+  {% assign reversed_tags_combined = reversed_tags | zip: reversed_values %}
+  {% assign tags = reversed_tags_combined %}
   {% assign max = max_font %}
   {% assign min = min_font %}
   {% assign sizes = '' | split: '' %}
   {% assign unit = 'px' %}
   {% assign start_color = start_color | split: ',' %}
   {% assign end_color = end_color | split: ',' %}
-
+  
   {% for tag in tags %}
     {% if forloop.index > amount %}
       {% break %}
@@ -59,5 +57,4 @@
     <a href="{{ '/tag/#/' | relative_url | append: tag_url_encode }}" style="{{ style }}">{{ tag[0] }}</a>
   {% endfor %}
 
-{% endcapture %}
-{% assign tagcloud = tagcloud | normalize_whitespace %}
+{% end
