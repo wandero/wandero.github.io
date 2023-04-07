@@ -1,6 +1,9 @@
 {% comment %} tagcloud(min_font, max_font, amount, color, start_color, end_color) {% endcomment %}
 {% capture tagcloud %}
-  {% assign tags = site.tags | sort_natural: "0" | reverse %}
+  {% assign tags = site.tags %}
+  {% if site.tag_cloud_reverse %}
+    {% assign tags = site.tags | sort_natural: "0" | reverse %}
+  {% endif %}
   {% assign max = max_font %}
   {% assign min = min_font %}
   {% assign sizes = '' | split: '' %}
@@ -53,6 +56,5 @@
     {% assign tag_url_encode = tag[0] | url_encode | replace: '+', '%20' %}
     <a href="{{ '/tag/#/' | relative_url | append: tag_url_encode }}" style="{{ style }}">{{ tag[0] }}</a>
   {% endfor %}
-
 {% endcapture %}
 {% assign tagcloud = tagcloud | normalize_whitespace %}
