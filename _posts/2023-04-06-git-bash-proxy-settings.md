@@ -13,6 +13,8 @@
 
 在 c:\users\cloudlet.info\\.gitconfig 中添加类似代理信息，http 代理只需要填写一条 http，不需要填第二条 https，代理用户名密码（user:password）可省略，端口记得修改
 
+<!-- more -->
+
 ```
 [http]
 	proxy = http://user:password@127.0.0.1:1080
