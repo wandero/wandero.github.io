@@ -84,5 +84,5 @@ Readwise Reader 是基于 web 的，可以方便的集成各种服务
 
 BUG 体积较大的 epub 上传后可能会消失
 
-最后放上邀请链接 https://readwise.io/i/wandero，链接注册可以获得额外一个月免费试用
+最后放上邀请链接 [https://readwise.io/i/wandero](https://readwise.io/i/wandero)，链接注册可以获得额外一个月免费试用
 
