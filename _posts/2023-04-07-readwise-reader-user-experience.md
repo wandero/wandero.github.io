@@ -17,7 +17,7 @@ Readwise Reader 阅读体验非常优秀，界面养眼，创造性的段落切�
 
 ## 简陋寒碜的 RSS 阅读功能
 
-至少在目前，Readwise Reader 的 RSS 阅读体验是远逊于 Inoreader （的免费版！！），订阅源组织、视图呈现、功能集成等待都几乎没法使用，这方面唯一的优点可能还是在内容标记上
+至少在目前，Readwise Reader 的 RSS 阅读体验是远逊于 Inoreader （的免费版！！），订阅源组织、视图呈现、功能集成等都几乎没法使用，这方面唯一的优点可能还是在内容标记上
 
 ## 糟糕的中文支持
 
@@ -60,9 +60,6 @@ Readwise Reader 是基于 web 的，可以方便的集成各种服务
 ,[class^="_docHeaderContent"]
 ,[class^="_returnToReadingButton"]
 {opacity:0 !important}
-
-/* p {FONT-FAMILY:  'Proxima Nova Lt' !important;} */
-
 
 [class^="_inboxNav"]:hover
 ,[class^="_bottomNav"]:hover
