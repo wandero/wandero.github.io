@@ -32,7 +32,7 @@
   修改 _config.yml，可以参考 [next 的使用文档](http://theme-next.simpleyyt.com/getting-started.html)，但实际上只需要修改 title:
     author: language: 等很少几处内容
 
-  将 Wordpress 导出的 _posts 文件夹替换库里的  _posts 文件夹
+用 Wordpress 导出的 _posts 文件夹替换库里的  _posts 文件夹
 
   push orgin，完工，等几分钟，cloudlet.github.io 就可以看到帖子了（在 github web 端库的 Settings Pages 中可以看到 Your site is live at https://cloudlet.github.io/ ，Last deployed by @zephur  1 minutes ago，注意 GitHub Pages 各种响应都有延迟）
 
@@ -64,7 +64,7 @@ auto_excerpt:
   length: 200
 ```
 
-手动标记：摘要文档 标记之前内容，可以自定义标记，可以在 front-matter 中单独指定`excerpt_separator: <!-- more -->`， 也可以在全局指定，如果开启全局指定，没有  标记的文档会摘要全文……，注意设置里的标记要和文档的中完全一致（特别是空格）
+手动标记：摘要文档标记之前内容，可以自定义标记，可以在 front-matter 中单独指定`excerpt_separator: <!-- more -->`， 也可以在全局指定，如果开启全局指定，没有标记的文档会摘要全文……，注意设置里的标记要和文档的中完全一致（特别是空格）
 
 ```
 #config
@@ -79,7 +79,7 @@ excerpt_description: true
 ```
 
 ```
-description：摘要功能实在太傻……
+description："摘要功能实在太傻……"
 ```
 
 ## 修改主题
