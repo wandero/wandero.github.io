@@ -13,6 +13,8 @@ Wordpress 转 Jekyll 后 帖子地址都变了，Google 搜索各种 404，之�
 
 那怎么办呢？有问题找 ChatGPT……
 
+<!-- more -->
+
 #### Z:
 
 > 我的blog改了结构包括帖子的permallink，google搜索结果都无法访问了帖子了，怎么办
