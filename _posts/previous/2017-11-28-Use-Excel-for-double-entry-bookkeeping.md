@@ -19,7 +19,7 @@ categories:
     - 方法一二
 tags:
     - Excel
-    - Timing
+    - Bookkeeping
 ---
 
 （财会盲，本文相关称谓除沿用 GnuCash 翻译外均系生造，达人多指正）

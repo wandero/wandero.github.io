@@ -1,6 +1,6 @@
 ---
 id: 1152
-title: '使用 AHk 实现 Logseq 快速剪辑'
+title: '使用 AHK 实现 Logseq 快速剪辑'
 date: '2022-07-26T22:07:22+08:00'
 author: Zephur
 layout: post

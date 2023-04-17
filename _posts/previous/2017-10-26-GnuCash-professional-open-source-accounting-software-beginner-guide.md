@@ -18,7 +18,7 @@ dotGood:
 categories:
     - 方法一二
 tags:
-    - Tally
+    - Bookkeeping
 ---
 
 ## 背景

@@ -15,7 +15,7 @@ categories:
     - 方法一二
 tags:
     - Logseq
-excerpt_separator: <!-- more -->
+    - PKM
 ---
 
 ## 信息中枢
