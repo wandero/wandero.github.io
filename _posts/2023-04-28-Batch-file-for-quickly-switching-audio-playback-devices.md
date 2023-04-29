@@ -2,9 +2,9 @@
 layout: post
 title: "批处理快速切换声音播放设备"
 date: 2023-04-28 20:00:00 +0800
-categories: BAT
+categories: 工具二三
 tags:
-    - 工具二三
+    - BAT
 ---
 
 PC 存在多个音频播放设备时，一般需要通过任务栏系统图标来切换，这样比较麻烦，继续批处理，Windows 10 没有原生命令，所以需要借助第三方工具，选择的 nircmd
