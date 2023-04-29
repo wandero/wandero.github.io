@@ -24,7 +24,7 @@ nircmd 似乎只有两个声音设备相关的命令：
 ```bat
 @echo off
 echo 切换到内置声卡
-C:\O\0little\nircmd.exe setdefaultsounddevice "内置声卡"
+C:\\O\\0little\\nircmd.exe setdefaultsounddevice "内置声卡"
 ```
 
 可以根据实际情况分别建立几个 bat 文件，然后在 path 中建立对应的快捷方式从而可以 Win+R 快速切换
@@ -37,13 +37,13 @@ set /p input="请输入 1(内置声卡)、2(外置声卡) 、3（显示器）：
 
 if "%input%"=="1" (
     echo 切换到内置声卡
-    C:\O\0little\nircmd.exe setdefaultsounddevice "内置声卡"
+    C:\\O\\0little\\nircmd.exe setdefaultsounddevice "内置声卡"
 ) else if "%input%"=="2" (
     echo 切换到外置声卡
-    C:\O\0little\nircmd.exe setdefaultsounddevice "外置声卡"
+    C:\\O\\0little\\nircmd.exe setdefaultsounddevice "外置声卡"
 ) else if "%input%"=="3" (
     echo 切换到 DELL S2721QS
-    C:\O\0little\nircmd.exe setdefaultsounddevice "显示器"
+    C:\\O\\0little\\nircmd.exe setdefaultsounddevice "显示器"
 ) else (
     echo 无效的输入，请输入 1、2 或 3。
 )
