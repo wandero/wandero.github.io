@@ -31,7 +31,7 @@ C:\O\0little\nircmd.exe setdefaultsounddevice "内置声卡"
 
 也可以使用一个 bat 文件文件搞定，nircmd 似乎无法实现一个 bat 自动切换
 
-```bat
+```
 @echo off
 set /p input="请输入 1(内置声卡)、2(外置声卡) 、3（显示器）："
 
