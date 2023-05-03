@@ -5,6 +5,8 @@ date: 2023-05-02 21:00:00 +0800
 categories: 工具二三
 tags:
     - Logseq
+    - AHK
+    - Screenshot
 ---
 
 严格来说，是使用 Autohotkey 写脚本，调用 IrfanView 的功能（需要先安装 IrfanView），将 Snipaste 的截图一键复制到 Logseq 的 assets 文件夹并且在 Journals 中写入图片路径，从而平替常规笔记软件热键截图的功能，当然，还是在 Chatgpt 的指导下完成……
