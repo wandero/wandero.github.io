@@ -19,7 +19,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/160831%E7%A8%8D%E5%90%8E%E9%98%85%E8%AF%BB%E7%B1%BB%E5%BA%94%E7%94%A8%E4%BD%BF%E7%94%A8%E5%B0%8F%E7%BB%93.md'
 categories:
-    - 方法一二
+    - 工具二三
 tags:
     - Reading
 ---

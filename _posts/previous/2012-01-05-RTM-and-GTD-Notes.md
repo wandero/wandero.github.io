@@ -12,7 +12,7 @@ mytory_md_visits_count:
 dotGood:
     - '1'
 categories:
-    - 方法一二
+    - 工具二三
 tags:
     - GTD
 ---

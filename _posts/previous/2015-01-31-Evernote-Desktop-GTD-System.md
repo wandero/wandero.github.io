@@ -22,7 +22,7 @@ mytory_md_path_old:
 dotGood:
     - '1'
 categories:
-    - 工具二三
+    - 方法一二
 tags:
     - Evernote
     - GTD

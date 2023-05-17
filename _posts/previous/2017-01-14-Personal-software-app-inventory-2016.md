@@ -18,7 +18,7 @@ mytory_md_mode:
 mytory_md_path_old:
     - 'https://github.com/wandero/blog/raw/master/17/170114%E4%B8%AA%E4%BA%BA%E8%BD%AF%E4%BB%B6%EF%BC%88%E5%BA%94%E7%94%A8%EF%BC%89%E6%B8%85%E5%8D%95%202016.md'
 categories:
-    - 方法一二
+    - 工具二三
 tags:
     - Soft
 ---
