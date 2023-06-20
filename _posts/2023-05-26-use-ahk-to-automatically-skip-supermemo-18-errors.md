@@ -15,7 +15,7 @@ SuperMemo 作为一款间隔重复记忆软件，其神器属性自不待言，�
 
 ```
 #Persistent
-SetTimer, CheckErrorWindows, 500
+SetTimer, CheckErrorWindows, 100
 
 CheckErrorWindows:
     IfWinExist, Error!

@@ -30,7 +30,7 @@ Logseq 同步功能迟迟不能正式发布，移动端轻度使用或隐私要�
 
 Windows 安装 iCloud，使用 Goodsync（或其他同步软件）定时单向同步坚果云（保障 PC 间同步）中的 logseq 文件夹内容至 iCloud~com~logseq~logseq 内
 
-注意先在同步软件中设置好不需要同步的文件夹，特别是 logseq 中的 bak 和 recycle，iCloud 同步速度可能非常慢，不选择文件夹几万个文件会同步好几天，一直显示 正在上传
+注意先在同步软件中设置好不需要同步的文件夹，特别是 logseq 中的 bak 和 recycle，另外新版的 iCloud 同步速度可能非常慢，几万个文件会同步好几天，一直显示 正在上传，可以使用 7.21 的老版本，使用正常。
 
 文件同步有时会导致 ios 端页面消失，点击右上角菜单图谱名处（icloud 同步会是 Documents）点击刷新即可
 
