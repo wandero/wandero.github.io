@@ -1,26 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>CSV Loader</title>
-        <style>
-            body { font-family: Arial, sans-serif; margin: 10px; }
-            #data-container { margin-top: 10px; }
-        </style>
-    </head>
-    <body>
-        <h1>Dynamic CSV Data Loader</h1>
-        <div id="data-container">Loading...</div>
-        <script> // 获取 URL 参数中的 nid const params = new URLSearchParams(window.location.search);
-            const nid = params.get("nid"); // Google Sheets CSV 文件链接 const csvUrl =
-            "https://docs.google.com/spreadsheets/d/e/2PACX-1vQvRCD9iOUXWfJ2cAUKLMoAsLd6vN5zbF0iBhmQQsvVvPuwU_VvdgBFKcLtOIRa1g/pub?gid=1172833456&single=true&output=csv";
-            fetch(csvUrl) .then(response => response.text()) .then(csv => { const rows =
-            csv.split("\n").map(row => row.split(",")); const header = rows[0]; // 表头 const
-            matchingRow = rows.find(row => row[0].trim() === nid.trim()); if (matchingRow) { const
-            container = document.getElementById("data-container"); container.innerHTML =
-            header.map((col, idx) => `<b>${col}</b>: ${matchingRow[idx]}`).join("<br>"); } else {
-            document.getElementById("data-container").innerText = "未找到匹配数据！"; } }) .catch(error => {
-            document.getElementById("data-container").innerText = "加载失败：" + error.message; });     </script>
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic CSV Data Loader</title>
+</head>
+<body>
+    <h1>Dynamic CSV Data Loader</h1>
+    <div id="data-container">Loading...</div>
+    <script>
+        // 获取 URL 参数中的 Note ID
+        const params = new URLSearchParams(window.location.search);
+        const noteId = params.get("Note ID");
+        console.log("Note ID 参数: ", noteId);
+
+        if (!noteId) {
+            document.getElementById("data-container").innerText = "Error: Missing Note ID parameter.";
+            throw new Error("Missing Note ID parameter.");
+        }
+
+        // Google Sheets CSV 文件链接
+        const csvUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQvRCD9iOUXWfJ2cAUKLMoAsLd6vN5zbF0iBhmQQsvVvPuwU_VvdgBFKcLtOIRa1g/pub?gid=1172833456&single=true&output=csv";
+
+        // 加载和解析 CSV 数据
+        fetch(csvUrl)
+            .then(response => {
+                if (!response.ok) throw new Error("Network response was not ok");
+                return response.text();
+            })
+            .then(csv => {
+                const rows = csv.split("\n").map(row => row.split(","));
+                console.log("所有行数据: ", rows);
+
+                const header = rows[0]; // 表头
+                const matchingRow = rows.find(row => row[0].trim() === noteId.trim());
+                console.log("匹配的行: ", matchingRow);
+
+                if (matchingRow) {
+                    const container = document.getElementById("data-container");
+                    container.innerHTML = header.map((col, idx) => `<b>${col}</b>: ${matchingRow[idx]}`).join("<br>");
+                } else {
+                    document.getElementById("data-container").innerText = "未找到匹配数据！";
+                }
+            })
+            .catch(error => {
+                console.error("加载失败: ", error.message);
+                document.getElementById("data-container").innerText = "加载失败：" + error.message;
+            });
+    </script>
+</body>
 </html>
